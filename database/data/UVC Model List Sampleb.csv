@@ -1,0 +1,270 @@
+UVC,Make,Range,Model,Mark,ModelSeries,StartDate,EndDate,FuelType,VehicleClass,BodyShape,BodyStyle,NumberOfDoors,GrossVehicleWeightKG,PowerDelivery,EngineCapacityCC,EngineCapacityLitres,Aspiration,KW,BHP,NumberOfGears,TransmissionType,DriveType,DrivingAxle,BatteryCapacity,VehicleType,Model Status,VehiclesOnTheRoad ,DocumentVersion
+M-AACQJ,Ford,Transit,Transit 350 Trend EcoBlue,5,V363,43677,NULL,Diesel,LCV,Semi High Roof,Panel Van,NULL,3500,ICE,1996,2,Turbocharged,125,167,6,Manual,4x2,Front,NULL,ICE,Current,TRUE,89
+M-AAFLL,Porsche,911,911 Carrera S,NULL,992,44043,NULL,Petrol,Car,NULL,Coupe,2,NULL,ICE,2981,3,Turbocharged,331,443,8,Manual,4x2,Rear,NULL,ICE,Current,TRUE,88
+M-AAFVS,Iveco,Daily,Daily 35S14B,NULL,MY2014,44140,NULL,Diesel,LCV,Standard Roof,Chassis Cab,NULL,3500,ICE,2287,2.3,Turbocharged,100,134,6,Manual,4x2,Rear,NULL,ICE,Current,TRUE,94
+M-AAGLX,Ford,Transit Custom,Transit Custom 300 Trend EcoBlue,6,V362,43749,NULL,Diesel,LCV,Standard Roof,Panel Van,NULL,3000,ICE,1996,2,Turbocharged,77,103,6,Manual,4x2,Front,NULL,ICE,Current,TRUE,89
+M-AAHJD,Volkswagen,Golf,Golf Life eTSI Semi-Auto,8,CD1,44279,NULL,Petrol,Car,NULL,Estate,5,NULL,ICE,1498,1.5,Turbocharged,95,128,7,Semi Automatic,4x2,Front,NULL,ICE,Current,TRUE,89
+M-AAPXQ,Ford,Transit Custom,Transit Custom 320 Trend MHEV,6,V362,43683,NULL,Diesel,LCV,Standard Roof,Panel Van,NULL,3200,MHEV,1996,2,Turbocharged,95,128,6,Manual,4x2,Front,NULL,MHEV,Current,TRUE,89
+M-AAQSD,Cupra,Leon,Leon VZ2 TSi Semi-Auto,1,SE380,44448,NULL,Petrol,Car,NULL,Hatchback,5,NULL,ICE,1984,2,Turbocharged,180,241,7,Semi Automatic,4x2,Front,NULL,ICE,Current,TRUE,91
+M-AARXH,Ford,Kuga,Kuga Startline X Edition EcoBlue Auto,3,CX482,44135,NULL,Diesel,Car,NULL,SUV Estate,5,NULL,ICE,1499,1.5,Turbocharged,88,118,8,Automatic,4x2,Front,NULL,ICE,Current,TRUE,88
+M-AAXSW,Audi,Q3,RS Q3 Sport Edition TFSI Quattro Semi-Auto,2,F3B,44179,NULL,Petrol,Car,NULL,SUV Hatchback,5,NULL,ICE,2480,2.5,Turbocharged,294,394,7,Semi Automatic,4x4,All - Permanent,NULL,ICE,Current,TRUE,86
+M-ABBXL,Ford,Transit Custom,Transit Custom 300 Leader EcoBlue,6,V362,43683,NULL,Diesel,LCV,Semi High Roof,Panel Van,NULL,3000,ICE,1996,2,Turbocharged,77,103,6,Manual,4x2,Front,NULL,ICE,Current,TRUE,89
+M-ABCXH,Mercedes-Benz,Sprinter,Sprinter 315 Premium CDi,3,VS30,44096,NULL,Diesel,LCV,High Roof,Panel Van,NULL,3500,ICE,1950,2,Turbocharged,110,147,6,Manual,4x2,Rear,NULL,ICE,Current,TRUE,89
+M-ABEZW,Mercedes-Benz,GLA,GLA 220 AMG Line Executive D 4Matic Auto,NULL,H247,44069,NULL,Diesel,Car,NULL,SUV Hatchback,5,NULL,ICE,1950,2,Turbocharged,140,187,8,Automatic,4x4,All - Permanent,NULL,ICE,Current,TRUE,84
+M-ABTBZ,Alfa Romeo,Giulia,Giulia Veloce TB Auto,1,952,44274,NULL,Petrol,Car,NULL,Saloon,4,NULL,ICE,1995,2,Turbocharged,206,276,8,Automatic,4x2,Rear,NULL,ICE,Current,TRUE,89
+M-ABWPD,Kia,Proceed,ProCeed GT ISG Semi-Auto,3,CD,44230,NULL,Petrol,Car,NULL,Estate,5,NULL,ICE,1591,1.6,Turbocharged,150,201,7,Semi Automatic,4x2,Front,NULL,ICE,Current,TRUE,89
+M-ACFET,Hyundai,i30,i30 Premium MHEV TGDi Auto,3,PD,44344,NULL,Petrol,Car,NULL,Estate,5,NULL,MHEV,998,1,Turbocharged,88,118,7,Automatic,4x2,Front,NULL,MHEV,Current,TRUE,88
+M-ACHEG,Cupra,Formentor,Formentor VZ2 TSi 4Drive Semi-Auto,1,SE316,44155,NULL,Petrol,Car,NULL,SUV Coupe,5,NULL,ICE,1984,2,Turbocharged,228,305,7,Semi Automatic,4x4,All - Permanent,NULL,ICE,Current,TRUE,92
+M-ACNKP,Volkswagen,Up!,Up Beats,1,121,44123,NULL,Petrol,Car,NULL,Hatchback,5,NULL,ICE,999,1,Naturally Aspirated,47,64,5,Manual,4x2,Front,NULL,ICE,Current,TRUE,86
+M-ACRJF,Ford,Transit,Transit 350 Trend EcoBlue,5,V363,43677,NULL,Diesel,LCV,Standard Roof,Panel Van,NULL,3500,ICE,1996,2,Turbocharged,95,128,6,Manual,4x2,Front,NULL,ICE,Current,TRUE,89
+M-ACRYT,Rolls-Royce,Cullinan,Cullinan Black Badge Auto,1,RR31,43775,NULL,Petrol,Car,NULL,SUV Estate,5,NULL,ICE,6749,6.7,Turbocharged,441,591,8,Automatic,4x4,All - Permanent,NULL,ICE,Current,TRUE,90
+M-ACTAC,Audi,A1,A1 Sportback 30 TFSI S Line Black Edition,2,GBH,44183,NULL,Petrol,Car,NULL,Hatchback,5,NULL,ICE,999,1,Turbocharged,81,108,6,Manual,4x2,Front,NULL,ICE,Current,TRUE,85
+M-ACWYZ,BMW,1 Series,116d M Sport,NULL,F40,43734,NULL,Diesel,Car,NULL,Hatchback,5,NULL,ICE,1496,1.5,Turbocharged,85,114,6,Manual,4x2,Front,NULL,ICE,Current,TRUE,95
+M-ACXCJ,Ford,Transit Custom,Transit Custom 280 Limited EcoBlue,6,V362,43676,NULL,Diesel,LCV,Standard Roof,Panel Van,NULL,2800,ICE,1996,2,Turbocharged,95,128,6,Manual,4x2,Front,NULL,ICE,Current,TRUE,89
+M-ADCNG,Audi,A3,S3 Vorsprung TFSI Quattro Semi-Auto,NULL,8YS,44313,NULL,Petrol,Car,NULL,Saloon,4,NULL,ICE,1984,2,Turbocharged,228,305,7,Semi Automatic,4x4,All - Permanent,NULL,ICE,Current,TRUE,85
+M-ADFLV,Ford,Transit Custom,Transit Custom 320 Trend EcoBlue Auto,6,V362,43840,NULL,Diesel,LCV,Standard Roof,Panel Van,NULL,3200,ICE,1996,2,Turbocharged,95,128,6,Automatic,4x2,Front,NULL,ICE,Current,TRUE,89
+M-ADXSA,Mercedes-Benz,Sprinter,Sprinter 315 Premium CDi,3,VS30,44130,NULL,Diesel,LCV,Standard Roof,Panel Van,NULL,3500,ICE,1950,2,Turbocharged,110,147,6,Manual,4x2,Rear,NULL,ICE,Current,TRUE,89
+M-ADZWK,Ford,Transit,Transit 350 Leader EcoBlue,5,V363,43728,NULL,Diesel,LCV,Semi High Roof,Panel Van,NULL,3500,ICE,1996,2,Turbocharged,125,167,6,Manual,4x2,Rear,NULL,ICE,Current,TRUE,89
+M-AEBJK,Audi,A1,A1 Sportback 25 TFSI Sport Semi-Auto,2,GBH,43769,NULL,Petrol,Car,NULL,Hatchback,5,NULL,ICE,999,1,Turbocharged,70,93,7,Semi Automatic,4x2,Front,NULL,ICE,Current,TRUE,85
+M-AEDJD,Audi,TT,TT S Line Vorsprung 45 TFSI Quattro Semi-Auto,NULL,FVR,44491,NULL,Petrol,Car,NULL,Convertible,2,NULL,ICE,1984,2,Turbocharged,180,241,7,Semi Automatic,4x4,All - Permanent,NULL,ICE,Current,TRUE,85
+M-AEDRQ,Cupra,Formentor,Formentor V2 TSi 4Drive Semi-Auto,1,SE316,44402,NULL,Petrol,Car,NULL,SUV Coupe,5,NULL,ICE,1984,2,Turbocharged,140,187,7,Semi Automatic,4x4,All - Permanent,NULL,ICE,Current,TRUE,92
+M-AEDXG,MG,ZS,ZS Exclusive VTi-Tech,1,ZS11,44225,NULL,Petrol,Car,NULL,SUV Hatchback,5,NULL,ICE,1498,1.5,Naturally Aspirated,78,104,5,Manual,4x2,Front,NULL,ICE,Current,TRUE,92
+M-AEFTJ,Ford,Transit Custom,Transit Custom 280 Limited EcoBlue,6,V362,43685,NULL,Diesel,LCV,Standard Roof,Panel Van,NULL,2800,ICE,1996,2,Turbocharged,125,167,6,Manual,4x2,Front,NULL,ICE,Current,TRUE,89
+M-AELKG,Dacia,Sandero,Sandero Sway Prestige LPG TCe,2,BJI,44312,NULL,Petrol/LPG,Car,NULL,Hatchback,5,NULL,ICE,999,1,Turbocharged,67,89,6,Manual,4x2,Front,NULL,ICE,Current,TRUE,87
+M-AELQK,Peugeot,Boxer,Boxer 335 L3 Blue HDi ,NULL,X2-50,43808,NULL,Diesel,LCV,Standard Roof,Chassis Cab,NULL,3500,ICE,1997,2,Turbocharged,120,160,6,Manual,4x2,Front,NULL,ICE,Current,TRUE,92
+M-AENVJ,Ford,Transit Custom,Transit Custom 300 Trend EcoBlue,6,V362,43677,NULL,Diesel,LCV,Semi High Roof,Panel Van,NULL,3000,ICE,1996,2,Turbocharged,95,128,6,Manual,4x2,Front,NULL,ICE,Current,TRUE,89
+M-AEVAF,Volkswagen,Transporter,Transporter T32 Highline TDI 4Motion Semi-Auto,6,T6,44285,NULL,Diesel,LCV,Standard Roof,Panel Van,NULL,3200,ICE,1968,2,Turbocharged,150,201,7,Semi Automatic,4x4,All - Permanent,NULL,ICE,Current,TRUE,90
+M-AFFFA,Toyota,RAV4,RAV4 Design HEV CVT,NULL,XA50,44103,NULL,Petrol/Electric,Car,NULL,SUV Estate,5,NULL,FHEV,2487,2.5,Naturally Aspirated,163,219,1,CVT,4x4,All - Selected,NULL,FHEV,Current,TRUE,83
+M-AFHLG,BMW,1 Series,116d SE Auto,NULL,F40,43734,NULL,Diesel,Car,NULL,Hatchback,5,NULL,ICE,1496,1.5,Turbocharged,85,114,7,Automatic,4x2,Front,NULL,ICE,Current,TRUE,92
+M-AFQYB,Ford,Transit Custom,Transit Custom 280 Trend EcoBlue,6,V362,43738,NULL,Diesel,LCV,Semi High Roof,Panel Van,NULL,2800,ICE,1996,2,Turbocharged,95,128,6,Manual,4x2,Front,NULL,ICE,Current,TRUE,89
+M-AFSNH,Audi,A3,A3 Sportback 35 TFSI S Line Edition 1,NULL,8YA,44046,NULL,Petrol,Car,NULL,Hatchback,5,NULL,ICE,1498,1.5,Turbocharged,110,147,6,Manual,4x2,Front,NULL,ICE,Current,TRUE,85
+M-AFXYV,Volkswagen,Transporter,Transporter T28 Highline TDI Semi-Auto,6,T6,44316,NULL,Diesel,LCV,Standard Roof,Panel Van,NULL,2800,ICE,1968,2,Turbocharged,110,147,7,Semi Automatic,4x2,Front,NULL,ICE,Current,TRUE,90
+M-AGHYY,Kia,Picanto,Picanto 2,3,JA,44112,NULL,Petrol,Car,NULL,Hatchback,5,NULL,ICE,998,1,Naturally Aspirated,49,65,5,Manual,4x2,Front,NULL,ICE,Current,TRUE,85
+M-AGPVK,Ford,Ranger,Ranger Limited Edition EcoBlue 4x4,5,P375,43699,NULL,Diesel,Pickup,Standard Roof,Pick Up,NULL,3270,ICE,1996,2,Turbocharged,125,167,6,Manual,4x4,All - Permanent,NULL,ICE,Current,TRUE,91
+M-AGWGA,Mercedes-Benz,E-Class,E 220 AMG Line Night Edition Premium+ D Auto,NULL,A238,44260,NULL,Diesel,Car,NULL,Convertible,2,NULL,ICE,1950,2,Turbocharged,143,191,9,Automatic,4x2,Rear,NULL,ICE,Current,TRUE,89
+M-AGXLH,Ford,Transit,Transit 290 Leader EcoBlue,5,V363,43736,NULL,Diesel,LCV,Standard Roof,Panel Van,NULL,2940,ICE,1996,2,Turbocharged,77,103,6,Manual,4x2,Front,NULL,ICE,Current,TRUE,89
+M-AHDRT,BMW,4 Series,430d xDrive M Sport MHEV Auto,NULL,G22,44286,NULL,Diesel,Car,NULL,Coupe,2,NULL,MHEV,2993,3,Turbocharged,210,282,8,Automatic,4x4,All - Permanent,NULL,MHEV,Current,TRUE,98
+M-AHJFL,Isuzu,Grafter,Grafter N35.125,NULL,1,42971,NULL,Diesel,LCV,Standard Roof,Chassis Cab,NULL,3500,ICE,1898,1.9,Turbocharged,90,120,6,Manual,4x2,Rear,NULL,ICE,Current,TRUE,86
+M-AHVZT,Alfa Romeo,Stelvio,Stelvio Veloce TD AWD Auto,NULL,949,44375,NULL,Diesel,Car,NULL,SUV Coupe,5,NULL,ICE,2143,2.1,Turbocharged,154,207,8,Automatic,4x4,All - Selected,NULL,ICE,Current,TRUE,91
+M-AHZBN,Ford,Transit Custom,Transit Custom 300 Trend EcoBlue,6,V362,43675,NULL,Diesel,LCV,Standard Roof,Panel Van,NULL,3000,ICE,1996,2,Turbocharged,95,128,6,Manual,4x2,Front,NULL,ICE,Current,TRUE,89
+M-AJRQA,Mercedes-Benz,GLE,GLE 350 AMG Line de 4Matic Auto,NULL,C167,44025,NULL,Diesel/Electric,Car,NULL,SUV Coupe,5,3260,PHEV,1950,2,Turbocharged,235,315,9,Automatic,4x4,All - Permanent,30,PHEV,Current,TRUE,86
+M-AKBRC,Volkswagen,Transporter,Transporter T32 Highline TDI Semi-Auto,6,T6,44278,NULL,Diesel,LCV,Standard Roof,Window Van,NULL,3200,ICE,1968,2,Turbocharged,110,147,7,Semi Automatic,4x2,Front,NULL,ICE,Current,TRUE,90
+M-AKFGX,Mercedes-Benz,Vito,Vito 116 CDi Tourer Select Auto,3,VS20,44106,NULL,Diesel,Car,NULL,MPV,5,3050,ICE,1950,2,Turbocharged,120,160,9,Automatic,4x2,Rear,NULL,ICE,Current,TRUE,88
+M-ALCGC,Porsche,911,911 Targa 4S Auto,NULL,992,44672,NULL,Petrol,Car,NULL,Convertible,2,NULL,ICE,2981,3,Turbocharged,331,443,8,Automatic,4x4,All - Permanent,NULL,ICE,Current,TRUE,85
+M-ALEJQ,BMW,2 Series,218i Sport Auto,NULL,F44,44273,NULL,Petrol,Car,NULL,Coupe,4,NULL,ICE,1499,1.5,Turbocharged,100,134,7,Automatic,4x2,Front,NULL,ICE,Current,TRUE,98
+M-ANBHQ,Toyota,Land Cruiser,Land Cruiser Active Commercial Auto,1,J150,44162,NULL,Diesel,LCV,Standard Roof,Car Derived Van,NULL,2950,ICE,2755,2.8,Turbocharged,150,201,6,Automatic,4x4,All - Permanent,NULL,ICE,Current,TRUE,89
+M-ANRGF,Iveco,Daily,Daily 35C14B Auto,NULL,MY2014,44106,NULL,Diesel,LCV,Standard Roof,Chassis Cab,NULL,3500,ICE,2287,2.3,Turbocharged,100,134,8,Automatic,4x2,Rear,NULL,ICE,Current,TRUE,94
+M-ANRXD,Kia,Picanto,Picanto GT-Line ISG,3,JA,44165,NULL,Petrol,Car,NULL,Hatchback,5,NULL,ICE,998,1,Turbocharged,73,98,5,Manual,4x2,Front,NULL,ICE,Current,TRUE,89
+M-ANSDN,Mazda,MX-30,MX-30 GT Sport Tech EV,1,DR,44243,NULL,Electric,Car,NULL,SUV Coupe,5,NULL,BEV,NULL,-1,N/A,106,143,1,Automatic,4x2,Front,35,BEV,Current,TRUE,109
+M-ANWGJ,Ford,Transit Courier,Transit Courier Trend TDCi,5,B460,43292,NULL,Diesel,LCV,Low Roof,Panel Van,NULL,1810,ICE,1499,1.5,Turbocharged,55,74,6,Manual,4x2,Front,NULL,ICE,Current,TRUE,89
+M-APFTH,Mercedes-Benz,Sprinter,Sprinter 314 Progressive CDi,NULL,VS30,44091,NULL,Diesel,LCV,Standard Roof,Chassis Cab,NULL,3500,ICE,2143,2.1,Turbocharged,105,140,6,Manual,4x2,Rear,NULL,ICE,Current,TRUE,89
+M-APLDE,Toyota,Land Cruiser,Land Cruiser Utility Commercial,1,J150,44377,NULL,Diesel,LCV,Standard Roof,Car Derived Van,NULL,2930,ICE,2755,2.8,Turbocharged,150,201,6,Manual,4x4,All - Selected,NULL,ICE,Current,TRUE,90
+M-APSFA,Ford,Ranger,Ranger Limited Edition EcoBlue 4x4,5,P375,43609,NULL,Diesel,Pickup,Standard Roof,Pick Up,NULL,3270,ICE,1996,2,Turbocharged,125,167,6,Manual,4x4,All - Permanent,NULL,ICE,Current,TRUE,90
+M-AQEWK,Fiat,Ducato,Auto-Trail Imala 730,NULL,290/295,43896,NULL,Diesel,Car,Standard Roof,Motor Caravan,NULL,3500,ICE,2287,2.3,Turbocharged,104,140,6,Manual,4x2,Front,NULL,ICE,Current,TRUE,91
+M-AQQSR,Iveco,Daily,Daily 35S21 Auto,NULL,MY2014,45093,NULL,Diesel,LCV,Standard Roof,Chassis Cab,NULL,3500,ICE,2998,3,Turbocharged,155,207,8,Automatic,4x2,Rear,NULL,ICE,Current,TRUE,92
+M-ARDYX,Peugeot,Rifter,Rifter Allure Blue HDi S/S,3,K9,44209,NULL,Diesel,VDC,NULL,Van Derived Car,5,NULL,ICE,1499,1.5,Turbocharged,75,100,5,Manual,4x2,Front,NULL,ICE,Current,TRUE,89
+M-ARZXL,Citroen,C4,C4 Sense Blue HDi S/S,NULL,C41,44575,NULL,Diesel,Car,NULL,Hatchback,5,NULL,ICE,1499,1.5,Turbocharged,81,108,6,Manual,4x2,Front,NULL,ICE,Current,TRUE,84
+M-AVAFZ,Audi,TT,TT RS TFSI Quattro Semi-Auto,NULL,FVP,43746,NULL,Petrol,Car,NULL,Coupe,3,NULL,ICE,2480,2.5,Turbocharged,294,394,7,Semi Automatic,4x4,All - Permanent,NULL,ICE,Current,TRUE,88
+M-AVBZC,Ford,Tourneo Custom,Tourneo Custom 320 Titanium EcoBlue,1,V362,43677,NULL,Diesel,VDC,NULL,Van Derived Car,4,3200,ICE,1996,2,Turbocharged,95,128,6,Manual,4x2,Front,NULL,ICE,Current,TRUE,88
+M-AVQLD,Iveco,Daily,Daily 35C14,NULL,MY2014,44952,NULL,Diesel,LCV,Standard Roof,Chassis Cab,NULL,3500,ICE,2287,2.3,Turbocharged,100,134,6,Manual,4x2,Rear,NULL,ICE,Current,TRUE,130
+M-AWYVC,Toyota,Proace Verso,Proace Verso Combi L1 D-4D,3,PV1,44243,NULL,Diesel,VDC,NULL,Van Derived Car,5,NULL,ICE,1499,1.5,Turbocharged,88,118,6,Manual,4x2,Front,NULL,ICE,Current,TRUE,88
+M-AYBFK,Ford,Transit Custom,Transit Custom 300 Trail EcoBlue,6,V362,44104,NULL,Diesel,LCV,Standard Roof,Panel Van,NULL,3000,ICE,1996,2,Turbocharged,95,128,6,Manual,4x2,Front,NULL,ICE,Current,TRUE,89
+M-AZCXR,Ford,Transit,Transit 350 Trend EcoBlue,5,V363,43682,NULL,Diesel,LCV,Standard Roof,Panel Van,NULL,3500,ICE,1996,2,Turbocharged,125,167,6,Manual,4x2,Front,NULL,ICE,Current,TRUE,89
+M-BABKX,Mercedes-Benz,Vito,Vito 114 Progressive CDi Auto,3,VS20,44069,NULL,Diesel,LCV,Standard Roof,Panel Van,NULL,2800,ICE,1950,2,Turbocharged,100,134,9,Automatic,4x2,Rear,NULL,ICE,Current,TRUE,89
+M-BAGAV,Renault,Trafic,Trafic SL28 Business Blue dCi,4,X82,44407,NULL,Diesel,VDC,NULL,Van Derived Car,5,NULL,ICE,1997,2,Turbocharged,81,108,6,Manual,4x2,Front,NULL,ICE,Current,TRUE,88
+M-BBBQS,Renault,Trafic,Trafic LL30 Business Blue dCi,4,X82,44681,NULL,Diesel,VDC,NULL,Van Derived Car,5,NULL,ICE,1997,2,Turbocharged,110,147,6,Manual,4x2,Front,NULL,ICE,Current,TRUE,90
+M-BBVEP,Citroen,SpaceTourer,Spacetourer Feel Blue HDi S/S Auto,1,K01,44187,NULL,Diesel,VDC,NULL,Van Derived Car,5,NULL,ICE,1997,2,Turbocharged,90,121,8,Automatic,4x2,Front,NULL,ICE,Current,TRUE,89
+M-BHRKH,Citroen,SpaceTourer,Spacetourer Business Blue HDi S/S,1,K01,44103,NULL,Diesel,VDC,NULL,Van Derived Car,5,NULL,ICE,1499,1.5,Turbocharged,88,118,6,Manual,4x2,Front,NULL,ICE,Current,TRUE,89
+M-BJKAN,Isuzu,D-Max,D-Max Utility,3,TER,44237,NULL,Diesel,Pickup,Standard Roof,Pick Up,NULL,3100,ICE,1898,1.9,Turbocharged,120,160,6,Manual,4x4,All - Selected,NULL,ICE,Current,TRUE,90
+M-BJNHG,Isuzu,D-Max,D-Max V-Cross Auto,3,TER,44238,NULL,Diesel,Pickup,Standard Roof,Pick Up,NULL,3100,ICE,1898,1.9,Turbocharged,120,160,6,Automatic,4x4,All - Selected,NULL,ICE,Current,TRUE,90
+M-BLCYG,Ford,Ranger,Ranger XLT EcoBlue 4x4,5,P375,43706,NULL,Diesel,Pickup,Standard Roof,Pick Up,NULL,3270,ICE,1996,2,Turbocharged,125,167,6,Manual,4x4,All - Permanent,NULL,ICE,Current,TRUE,90
+M-BLZJH,Volkswagen,Caddy,Caddy C20 Life TDI,5,SB,44337,NULL,Diesel,VDC,NULL,Van Derived Car,5,NULL,ICE,1968,2,Turbocharged,75,100,6,Manual,4x2,Front,NULL,ICE,Current,TRUE,88
+M-BRWLN,Isuzu,D-Max,D-Max DL40 Auto,3,TER,44237,NULL,Diesel,Pickup,Standard Roof,Pick Up,NULL,3100,ICE,1898,1.9,Turbocharged,120,160,6,Automatic,4x4,All - Selected,NULL,ICE,Current,TRUE,86
+M-BSDNJ,Peugeot,Rifter,Rifter Allure Premium PureTech S/S Auto,3,K9,44210,NULL,Petrol,VDC,NULL,Van Derived Car,5,NULL,ICE,1199,1.2,Turbocharged,96,128,8,Automatic,4x2,Front,NULL,ICE,Current,TRUE,87
+M-BYXHV,Peugeot,Traveller,Traveller Allure Standard Blue HDi S/S Auto,1,K0,44256,NULL,Diesel,VDC,NULL,Van Derived Car,5,NULL,ICE,1997,2,Turbocharged,130,174,6,Automatic,4x2,Front,NULL,ICE,Current,TRUE,88
+M-CAXAG,Ford,Ranger,Ranger Raptor EcoBlue 4x4 Auto,5,P375,43585,NULL,Diesel,Pickup,Standard Roof,Pick Up,NULL,3130,ICE,1996,2,Turbocharged,156,209,10,Automatic,4x4,All - Permanent,NULL,ICE,Current,TRUE,89
+M-CRNTZ,Mercedes-Benz,V-Class,V 300 AMG Line D Auto,NULL,W447,43658,NULL,Diesel,VDC,NULL,Van Derived Car,5,NULL,ICE,1950,2,Turbocharged,176,236,9,Automatic,4x2,Rear,NULL,ICE,Current,TRUE,87
+M-CRPLH,Ford,Transit,Transit 350 Trend EcoBlue,5,V363,43709,NULL,Diesel,PSV,Standard Roof,Minibus,NULL,3500,ICE,1996,2,Turbocharged,95,128,6,Manual,4x2,Rear,NULL,ICE,Current,TRUE,88
+M-CSDKG,Ford,Tourneo Custom,Tourneo Custom 320 Zetec EcoBlue Auto,1,V362,43754,NULL,Diesel,VDC,NULL,Van Derived Car,4,3200,ICE,1996,2,Turbocharged,95,128,6,Automatic,4x2,Front,NULL,ICE,Current,TRUE,87
+M-CTLKZ,Mercedes-Benz,Sprinter,Sprinter 514 CDi,3,VS30,43396,NULL,Diesel,HCV,NULL,Panel Van,NULL,5000,ICE,2143,2.1,Turbocharged,105,140,NULL,Manual,4x2,Rear,NULL,ICE,Current,TRUE,85
+M-CTNXV,Vauxhall,Combo Life,Combo Life Edition TD S/S,1,K9,44242,NULL,Diesel,VDC,NULL,Van Derived Car,5,NULL,ICE,1499,1.5,Turbocharged,75,100,5,Manual,4x2,Front,NULL,ICE,Current,TRUE,91
+M-DCPBQ,Volkswagen,Caddy,Caddy Maxi C20 Life TSi Semi-Auto,5,SB,44285,NULL,Petrol,VDC,NULL,Van Derived Car,5,NULL,ICE,1498,1.5,Turbocharged,84,112,7,Semi Automatic,4x2,Front,NULL,ICE,Current,TRUE,89
+M-DCVFL,Mercedes-Benz,V-Class,V 220 Sport D Auto,NULL,W447,43657,NULL,Diesel,VDC,NULL,Van Derived Car,5,NULL,ICE,1950,2,Turbocharged,120,160,9,Automatic,4x2,Rear,NULL,ICE,Current,TRUE,87
+M-DCZXZ,Ford,Tourneo Custom,Tourneo Custom 320 Zetec EcoBlue,1,V362,43696,NULL,Diesel,VDC,NULL,Van Derived Car,4,3200,ICE,1996,2,Turbocharged,95,128,6,Manual,4x2,Front,NULL,ICE,Current,TRUE,87
+M-DGAPN,Renault,Trafic,Trafic SL28 Sport Blue dCi,4,X82,44523,NULL,Diesel,VDC,NULL,Van Derived Car,5,NULL,ICE,1997,2,Turbocharged,81,108,6,Manual,4x2,Front,NULL,ICE,Current,TRUE,87
+M-DGXBL,Peugeot,Rifter,Rifter Allure Premium PureTech S/S Auto,3,K9,44225,NULL,Petrol,VDC,NULL,Van Derived Car,5,NULL,ICE,1199,1.2,Turbocharged,96,128,8,Automatic,4x2,Front,NULL,ICE,Current,TRUE,87
+M-DJJLL,Isuzu,D-Max,D-Max DL20,3,TER,44238,NULL,Diesel,Pickup,Standard Roof,Pick Up,NULL,3100,ICE,1898,1.9,Turbocharged,120,160,6,Manual,4x4,All - Selected,NULL,ICE,Current,TRUE,86
+M-DJQTV,Peugeot,Rifter,Rifter Horizon RS TD,3,K9,43627,NULL,Diesel,VDC,NULL,Van Derived Car,5,NULL,ICE,1499,1.5,Turbocharged,75,100,5,Manual,4x2,Front,NULL,ICE,Current,TRUE,87
+M-DQDJZ,Ford,Ranger,Ranger Limited Edition EcoBlue 4x4 Auto,5,P375,43585,NULL,Diesel,Pickup,Standard Roof,Pick Up,NULL,3270,ICE,1996,2,Turbocharged,156,209,10,Automatic,4x4,All - Permanent,NULL,ICE,Current,TRUE,89
+M-DXHJJ,Mercedes-Benz,Sprinter,Sprinter 519 Premium CDi 4x4 Auto,NULL,VS30,44628,NULL,Diesel,HCV,NULL,Panel Van,NULL,5000,ICE,2987,3,Turbocharged,140,190,NULL,Automatic,4x4,All - Selected,NULL,ICE,Current,TRUE,89
+M-DXJDR,Ford,Tourneo Custom,Tourneo Custom 320 Titanium PHEV CVT,1,V362,43862,NULL,Petrol/Electric,VDC,NULL,Van Derived Car,4,3200,PHEV,999,1,Turbocharged,92,123,1,CVT,4x2,Front,13,PHEV,Current,TRUE,92
+M-DXTLG,Ford,Transit,Transit 500 Leader EcoBlue,NULL,V363,45078,NULL,Diesel,HCV,NULL,Chassis Cab,NULL,5000,ICE,1996,2,Turbocharged,125,167,NULL,Manual,4x2,Rear,NULL,ICE,Current,FALSE,63
+M-DXYNP,Iveco,Daily,Daily 55C18 4x4,NULL,MY2014,45030,NULL,Diesel,HCV,NULL,Panel Van,NULL,5500,ICE,2998,3,Turbocharged,132,177,NULL,Manual,4x4,All - Permanent,NULL,ICE,Current,TRUE,92
+M-EAEHH,Citroen,Berlingo,Berlingo Feel PureTech S/S Auto,3,K9,44221,NULL,Petrol,VDC,NULL,Van Derived Car,5,NULL,ICE,1199,1.2,Turbocharged,96,129,8,Automatic,4x2,Front,NULL,ICE,Current,TRUE,87
+M-EBWWC,Ford,Transit,Transit 460 Leader EcoBlue,5,V363,43692,NULL,Diesel,PSV,NULL,Minibus,NULL,4600,ICE,1996,2,Turbocharged,95,128,NULL,Manual,4x2,Rear,NULL,ICE,Current,TRUE,88
+M-EBYTQ,Citroen,Berlingo,Berlingo Feel Blue HDi S/S,3,K9,44341,NULL,Diesel,VDC,NULL,Van Derived Car,5,NULL,ICE,1499,1.5,Turbocharged,75,100,6,Manual,4x2,Front,NULL,ICE,Current,TRUE,88
+M-ECDWK,Iveco,Daily,Daily 50C16,NULL,MY2014,43888,NULL,Diesel,HCV,NULL,NULL,NULL,5200,ICE,2287,2.3,Turbocharged,115,154,6,Manual,4x2,Rear,NULL,ICE,Current,TRUE,92
+M-ECQSB,Mercedes-Benz,V-Class,V 220 D AMG Line Auto,NULL,W447,43676,NULL,Diesel,VDC,NULL,Van Derived Car,5,NULL,ICE,1950,2,Turbocharged,120,160,9,Automatic,4x2,Rear,NULL,ICE,Current,TRUE,87
+M-EFCHS,Volkswagen,Caddy,Caddy Maxi C20 TDI,5,SB,44462,NULL,Diesel,VDC,NULL,Van Derived Car,5,NULL,ICE,1968,2,Turbocharged,75,100,6,Manual,4x2,Front,NULL,ICE,Current,TRUE,88
+M-EGBXN,Ford,Ranger,Ranger Wildtrak EcoBlue 4x4 Auto,5,P375,43585,NULL,Diesel,Pickup,Standard Roof,Pick Up,NULL,3270,ICE,1996,2,Turbocharged,156,209,10,Automatic,4x4,All - Permanent,NULL,ICE,Current,TRUE,89
+M-EGEYY,Mercedes-Benz,Sprinter,Sprinter 516 CDi,3,VS30,43377,NULL,Diesel,HCV,NULL,Chassis Cab,NULL,5000,ICE,2143,2.1,Turbocharged,120,160,NULL,Manual,4x2,Rear,NULL,ICE,Current,TRUE,85
+M-ELEWT,Toyota,Proace Verso,Proace Verso Family L1 D-4D Auto,3,PV1,44238,NULL,Diesel,VDC,NULL,Van Derived Car,5,NULL,ICE,1997,2,Turbocharged,130,174,6,Automatic,4x2,Front,NULL,ICE,Current,TRUE,87
+M-EWHEZ,Peugeot,Rifter,Rifter Horizon RS+,3,K9,44425,NULL,Diesel,VDC,NULL,Van Derived Car,5,NULL,ICE,1499,1.5,Turbocharged,75,100,5,Manual,4x2,Front,NULL,ICE,Current,TRUE,87
+M-EXLPS,Volkswagen,Caddy,Caddy Maxi C20 TSi,5,SB,44364,NULL,Petrol,VDC,NULL,Van Derived Car,5,NULL,ICE,1498,1.5,Turbocharged,84,112,6,Manual,4x2,Front,NULL,ICE,Current,TRUE,88
+M-EYJZL,Citroen,SpaceTourer,Spacetourer Feel Blue HDi S/S,1,K01,44110,NULL,Diesel,VDC,NULL,Van Derived Car,5,NULL,ICE,1499,1.5,Turbocharged,88,118,6,Manual,4x2,Front,NULL,ICE,Current,TRUE,88
+M-EYLNV,Vauxhall,Vivaro Life,Vivaro Life Edition S/S,3,K0,43887,NULL,Diesel,VDC,NULL,Van Derived Car,5,NULL,ICE,1499,1.5,Turbocharged,88,118,6,Manual,4x2,Front,NULL,ICE,Current,TRUE,87
+M-EYTWY,Peugeot,Traveller,Traveller Active Standard Blue HDi S/S,1,K0,44280,NULL,Diesel,VDC,NULL,Van Derived Car,5,NULL,ICE,1499,1.5,Turbocharged,88,118,6,Manual,4x2,Front,NULL,ICE,Current,TRUE,88
+M-FAFPP,Iveco,Daily,Daily 50C18b,NULL,MY2014,44805,NULL,Diesel,HCV,NULL,NULL,NULL,5200,ICE,2998,3,Turbocharged,132,177,6,Manual,4x2,Rear,NULL,ICE,Current,TRUE,90
+M-FCXWS,Isuzu,D-Max,D-Max DL40,3,TER,44237,NULL,Diesel,Pickup,Standard Roof,Pick Up,NULL,3100,ICE,1898,1.9,Turbocharged,120,160,6,Manual,4x4,All - Selected,NULL,ICE,Current,TRUE,86
+M-FHSEP,Mercedes-Benz,Sprinter,Sprinter 516 CDi,3,VS30,43280,NULL,Diesel,HCV,NULL,Panel Van,NULL,5000,ICE,2143,2.1,Turbocharged,120,160,NULL,Manual,4x2,Rear,NULL,ICE,Current,TRUE,85
+M-FLNQZ,Ford,Tourneo Custom,Tourneo Custom 320 Zetec EcoBlue,1,V362,43711,NULL,Diesel,VDC,NULL,Van Derived Car,4,3200,ICE,1996,2,Turbocharged,77,103,6,Manual,4x2,Front,NULL,ICE,Current,TRUE,87
+M-FLYNT,Volkswagen,Caddy,Caddy Maxi C20 Life TDI,5,SB,44344,NULL,Diesel,VDC,NULL,Van Derived Car,5,NULL,ICE,1968,2,Turbocharged,90,120,6,Manual,4x2,Front,NULL,ICE,Current,TRUE,88
+M-FQJQP,Mercedes-Benz,Sprinter,Sprinter 419 CDI Auto,NULL,VS30,45008,NULL,Diesel,HCV,NULL,Panel Van,NULL,4100,ICE,2987,3,Turbocharged,140,190,NULL,Automatic,4x2,Rear,NULL,ICE,Current,TRUE,87
+M-FSPLW,Peugeot,Rifter,Rifter Horizon RE TD,3,K9,43558,NULL,Diesel,VDC,NULL,Van Derived Car,5,NULL,ICE,1499,1.5,Turbocharged,75,100,5,Manual,4x2,Front,NULL,ICE,Current,TRUE,87
+M-FSZKW,Isuzu,D-Max,D-Max Utility,3,TER,44238,NULL,Diesel,Pickup,Standard Roof,Pick Up,NULL,3100,ICE,1898,1.9,Turbocharged,120,160,6,Manual,4x4,All - Selected,NULL,ICE,Current,TRUE,89
+M-FWZBL,Ford,Tourneo Custom,Tourneo Custom 320 Titanium EcoBlue,1,V362,43685,NULL,Diesel,VDC,NULL,Van Derived Car,4,3200,ICE,1996,2,Turbocharged,95,128,6,Manual,4x2,Front,NULL,ICE,Current,TRUE,87
+M-FZYSK,Peugeot,Rifter,Rifter Premier RS Plus Auto,3,K9,45145,NULL,Diesel,VDC,NULL,Van Derived Car,5,NULL,ICE,1499,1.5,Turbocharged,96,128,8,Automatic,4x2,Front,NULL,ICE,Current,FALSE,30
+M-GDFKV,Isuzu,D-Max,D-Max DL20 Auto,3,TER,44294,NULL,Diesel,Pickup,Standard Roof,Pick Up,NULL,3100,ICE,1898,1.9,Turbocharged,120,160,6,Automatic,4x4,All - Selected,NULL,ICE,Current,TRUE,86
+M-GFEDA,Renault,Trafic,TRAFIC SL28 SPORT BLUE DCI A,NULL,X82,44666,NULL,Diesel,VDC,NULL,Van Derived Car,5,NULL,ICE,1997,2,Turbocharged,125,167,6,Automatic,4x2,Front,NULL,ICE,Current,TRUE,88
+M-GPKCQ,Ford,Transit,Transit 460 Trend EcoBlue,5,V363,43709,NULL,Diesel,PSV,NULL,Minibus,NULL,4600,ICE,1996,2,Turbocharged,95,128,NULL,Manual,4x2,Rear,NULL,ICE,Current,TRUE,88
+M-GSFYP,Isuzu,D-Max,D-Max V-Cross,3,TER,44197,NULL,Diesel,Pickup,Standard Roof,Pick Up,NULL,3100,ICE,1898,1.9,Turbocharged,120,160,6,Manual,4x4,All - Selected,NULL,ICE,Current,TRUE,89
+M-GYBRK,Ford,Transit,Transit 500 Leader EcoBlue,NULL,V363,44652,NULL,Diesel,HCV,NULL,Panel Van,NULL,5000,ICE,1996,2,Turbocharged,125,167,NULL,Manual,4x2,Rear,NULL,ICE,Current,TRUE,88
+M-GYVPA,Ford,Ranger,Ranger Limited Edition EcoBlue 4x4 Auto,5,P375,43608,NULL,Diesel,Pickup,Standard Roof,Pick Up,NULL,3270,ICE,1996,2,Turbocharged,125,167,10,Automatic,4x4,All - Permanent,NULL,ICE,Current,TRUE,89
+M-HBFGA,Citroen,Relay,Relay 40 L4H2 Blue HDi S/S,NULL,X2-50,44084,NULL,Diesel,HCV,NULL,Window Van,NULL,4005,ICE,2179,2.2,Turbocharged,103,138,6,Manual,4x2,Front,NULL,ICE,Current,TRUE,89
+M-HGFXZ,Ford,Ranger,Ranger XL EcoBlue 4x4,5,P375,43646,NULL,Diesel,Pickup,Standard Roof,Pick Up,NULL,3270,ICE,1996,2,Turbocharged,125,167,6,Manual,4x4,All - Permanent,NULL,ICE,Current,TRUE,90
+M-HKTWH,Ford,Ranger,Ranger XL EcoBlue 4x4,5,P375,43668,NULL,Diesel,Pickup,Standard Roof,Pick Up,NULL,3270,ICE,1996,2,Turbocharged,125,167,6,Manual,4x4,All - Permanent,NULL,ICE,Current,TRUE,89
+M-HYGZV,Peugeot,Boxer,Boxer 335 TL Blue HDi ,NULL,X2-50,43817,NULL,Diesel,HCV,NULL,Motor Caravan,NULL,4005,ICE,2179,2.2,Turbocharged,121,162,NULL,Manual,4x2,Front,NULL,ICE,Current,TRUE,91
+M-JCASV,Ford,Ranger,Ranger XLT EcoBlue 4x4,5,P375,43691,NULL,Diesel,Pickup,Standard Roof,Pick Up,NULL,3270,ICE,1996,2,Turbocharged,125,167,6,Manual,4x4,All - Permanent,NULL,ICE,Current,TRUE,89
+M-JCHRH,Isuzu,D-Max,D-Max DL20,3,TER,44278,NULL,Diesel,Pickup,Standard Roof,Pick Up,NULL,3100,ICE,1898,1.9,Turbocharged,120,160,6,Manual,4x4,All - Selected,NULL,ICE,Current,TRUE,86
+M-JLHDB,Iveco,Daily,Daily 50C18V,NULL,MY2014,42718,NULL,Diesel,HCV,NULL,NULL,NULL,5200,ICE,3000,3,Turbocharged,132,177,NULL,Manual,4x2,Rear,NULL,ICE,Current,TRUE,91
+M-JQTLP,Ford,Ranger,Ranger XL EcoBlue 4x4,5,P375,43662,NULL,Diesel,Pickup,Standard Roof,Pick Up,NULL,3270,ICE,1996,2,Turbocharged,125,167,6,Manual,4x4,All - Permanent,NULL,ICE,Current,TRUE,89
+M-JXFKK,Ford,Ranger,Ranger XL EcoBlue 4x4,5,P375,43553,NULL,Diesel,Pickup,Standard Roof,Pick Up,NULL,3200,ICE,1996,2,Turbocharged,95,128,6,Manual,4x4,All - Permanent,NULL,ICE,Current,TRUE,89
+M-JYWBK,Mercedes-Benz,Sprinter,Sprinter 519 CDi Auto,3,VS30,43413,NULL,Diesel,HCV,NULL,Chassis Cab,NULL,5000,ICE,2987,3,Turbocharged,140,190,NULL,Automatic,4x2,Rear,NULL,ICE,Current,TRUE,85
+M-KDQTL,Ford,Transit,Transit 470 Leader EcoBlue,NULL,V363,44287,NULL,Diesel,HCV,NULL,Chassis Cab,NULL,4700,ICE,1996,2,Turbocharged,125,167,NULL,Manual,4x2,Rear,NULL,ICE,Current,TRUE,88
+M-KSJTC,Ford,Ranger,Ranger XL EcoBlue 4x4,NULL,P375,44454,NULL,Diesel,Pickup,Standard Roof,Chassis Cab,3,3270,ICE,1996,2,Turbocharged,125,167,6,Manual,4x4,All - Permanent,NULL,ICE,Current,TRUE,90
+M-LKHLN,Ford,Transit,Transit 460 Leader EcoBlue Auto,NULL,V363,44771,NULL,Diesel,PSV,NULL,Minibus,NULL,4600,ICE,1996,2,Turbocharged,125,167,NULL,Automatic,4x2,Rear,NULL,ICE,Current,TRUE,88
+M-LSYZR,Volkswagen,Crafter,Crafter CR40 Startline TDI,NULL,NF,45107,NULL,Diesel,HCV,NULL,Panel Van,NULL,4000,ICE,1968,2,Turbocharged,130,174,6,Manual,4x2,Front,NULL,ICE,Current,TRUE,71
+M-LTXSX,Toyota,Hilux,HI-Luxury Active D-4D 4WD ECB,NULL,H6L,44573,NULL,Diesel,Pickup,Standard Roof,Pick Up,5,3150,ICE,2393,2.4,Turbocharged,110,147,6,Manual,4x4,All - Selected,NULL,ICE,Current,TRUE,90
+M-LVRHH,Fiat,Ducato,DUCATO 42 MAXI MULTIJET III A,NULL,290/295,44880,NULL,Diesel,HCV,NULL,Panel Van,NULL,4250,ICE,2184,2.2,Turbocharged,134,180,6,Automatic,4x2,Front,NULL,ICE,Current,TRUE,91
+M-LWFPX,Fiat,Ducato,Ducato 42 Maxi MultiJet III,NULL,290/295,44720,NULL,Diesel,HCV,NULL,Window Van,NULL,4250,ICE,2184,2.2,Turbocharged,104,140,6,Manual,4x2,Front,NULL,ICE,Current,TRUE,90
+M-LWGPS,Fiat,Ducato,Ducato 42 Maxi MultiJet Power,NULL,290/295,44595,NULL,Diesel,HCV,NULL,Panel Van,NULL,4250,ICE,2184,2.2,Turbocharged,134,180,6,Manual,4x2,Front,NULL,ICE,Current,TRUE,90
+M-LWPDT,Ford,Ranger,Ranger XLT EcoBlue 4x4 Auto,NULL,P375,44572,NULL,Diesel,Pickup,Standard Roof,Pick Up,NULL,3270,ICE,1996,2,Turbocharged,156,209,10,Automatic,4x4,All - Permanent,NULL,ICE,Current,TRUE,89
+M-LWRHL,Peugeot,Boxer,Boxer 440 Blue HDi ,NULL,X2-50,44628,NULL,Diesel,HCV,NULL,NULL,NULL,4005,ICE,2179,2.2,Turbocharged,103,138,NULL,Manual,4x2,Front,NULL,ICE,Current,TRUE,90
+M-LXFXE,Fiat,Ducato,Ducato 42 Maxi MultiJet Power,NULL,290/295,44539,NULL,Diesel,HCV,NULL,Chassis Cab,NULL,4250,ICE,2184,2.2,Turbocharged,134,180,6,Manual,4x2,Front,NULL,ICE,Current,TRUE,90
+M-LXKZQ,Fiat,Ducato,Ducato 42 Maxi MultiJet III,NULL,290/295,44978,NULL,Diesel,HCV,NULL,Chassis Cab,NULL,4250,ICE,2184,2.2,Turbocharged,119,160,6,Manual,4x2,Front,NULL,ICE,Current,TRUE,125
+M-LYHSK,Toyota,Hilux,HI-Luxury Icon D-4D 4WD Double Cab,NULL,H6L,44566,NULL,Diesel,Pickup,Standard Roof,Pick Up,5,3210,ICE,2393,2.4,Turbocharged,110,147,6,Manual,4x4,All - Selected,NULL,ICE,Current,TRUE,89
+M-NAADG,Ford,Fiesta,Fiesta Trend T,NULL,B479,44628,NULL,Petrol,CDV,Low Roof,Car Derived Van,3,1690,ICE,999,1,Turbocharged,75,98,6,Manual,4x2,Front,NULL,ICE,Current,TRUE,88
+M-NABDF,Fiat,Ducato,Ducato 42 Tecnico Maxi MultiJet III,NULL,290/295,45016,NULL,Diesel,HCV,NULL,Chassis Cab,NULL,4250,ICE,2184,2.2,Turbocharged,119,160,6,Manual,4x2,Front,NULL,ICE,Current,TRUE,90
+M-NACYD,Peugeot,Boxer,Boxer 335 Blue HDi ,NULL,X2-50,44652,NULL,Diesel,HCV,NULL,NULL,NULL,3505,ICE,2179,2.2,Turbocharged,103,138,NULL,Manual,4x2,Front,NULL,ICE,Current,TRUE,90
+M-NBHFC,Ford,Transit,E-Transit 425 Trend,NULL,V363,44742,NULL,Electric,HCV,NULL,Panel Van,NULL,4250,BEV,NULL,NULL,N/A,198,265,NULL,Automatic,4x2,Rear,68,BEV,Current,TRUE,94
+M-NBJAA,Ford,Transit,E-Transit 390 Trend,NULL,V363,45096,NULL,Electric,HCV,NULL,Panel Van,NULL,3900,BEV,NULL,NULL,N/A,135,181,NULL,Automatic,4x2,Rear,NULL,BEV,Current,TRUE,88
+M-NBJFJ,Ford,Transit,E-Transit 390 Trend,NULL,V363,45044,NULL,Electric,HCV,NULL,Panel Van,NULL,3900,BEV,NULL,NULL,N/A,198,265,NULL,Automatic,4x2,Rear,NULL,BEV,Current,TRUE,94
+M-NDXPR,CFMOTO,M/C Unspecified 126-650cc,M/C UNSPEC 126 - 650 CC,NULL,M/C UNSPEC 126 - 650 CC,44594,NULL,Petrol,Motorcycle,NULL,NULL,NULL,NULL,ICE,650,0.7,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,ICE,Current,FALSE,15
+M-NDXQJ,Triumph,Tiger 900 GT Pro,TIGER 900 GT PRO,NULL,TIGER 900 GT PRO,43822,NULL,Petrol,Motorcycle,NULL,Adventure,NULL,NULL,ICE,888,0.9,NULL,70,93,NULL,NULL,NULL,NULL,NULL,ICE,Current,TRUE,18
+M-NDXVQ,AJP,PR3 240 Enduro Pro,PR3 240 ENDURO PRO,NULL,PR3 240 ENDURO PRO,43762,NULL,Petrol,Motorcycle,NULL,Competition,NULL,NULL,ICE,233,0.2,NULL,8,10,NULL,NULL,NULL,NULL,NULL,ICE,Current,FALSE,16
+M-NDXYP,Piaggio,Vespa GTS 125 Touring,VESPA GTS 125 TOURING,NULL,VESPA GTS 125 TOURING,44644,NULL,Petrol,Motorcycle,NULL,Scooter,NULL,NULL,ICE,125,0.1,NULL,10,13,NULL,NULL,NULL,NULL,NULL,ICE,Current,TRUE,18
+M-NDXZT,Piaggio,Vespa Sprint 125 ABS,VESPA SPRINT 125 ABS,NULL,VESPA SPRINT 125 ABS,42107,NULL,Petrol,Motorcycle,NULL,Scooter,NULL,NULL,ICE,124,0.1,NULL,8,10,NULL,NULL,NULL,NULL,NULL,ICE,Current,FALSE,16
+M-NDYGF,Piaggio,NRG Power 50 DD,NRG 50,NULL,NRG 50,43270,NULL,Petrol,Moped,NULL,Scooter,NULL,NULL,ICE,49,0,NULL,3,4,NULL,NULL,NULL,NULL,NULL,ICE,Current,FALSE,16
+M-NDYPT,Kawasaki,ZR 750,Z750,NULL,Z750,42605,NULL,Petrol,Motorcycle,NULL,Naked,NULL,NULL,ICE,748,0.7,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,ICE,Current,FALSE,13
+M-NDYSC,Energica,Motorcycle Unspecified,M/C UNSPEC,NULL,M/C UNSPEC,42844,NULL,Electric,Motorcycle,NULL,NULL,NULL,NULL,ICE,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,ICE,Current,FALSE,21
+M-NDYVC,Montesa,MRT 300 J,MRT 300 J,NULL,MRT 300 J,43916,NULL,Petrol,Motorcycle,NULL,Competition,NULL,NULL,ICE,288,0.3,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,ICE,Current,FALSE,13
+M-NDYXC,Aprilia,SR GT 125,SR GT 125,NULL,SR GT 125,44638,NULL,Petrol,Motorcycle,NULL,Scooter,NULL,NULL,ICE,125,0.1,NULL,11,14,NULL,NULL,NULL,NULL,NULL,ICE,Current,TRUE,15
+M-NDYYS,Montesa,4RIDE,4RIDE,NULL,4RIDE,43869,NULL,Petrol,Motorcycle,NULL,Competition,NULL,NULL,ICE,259,0.3,NULL,6,8,NULL,NULL,NULL,NULL,NULL,ICE,Current,TRUE,15
+M-NDYZC,Sunra,Miku Super,MIKU SUPER,NULL,MIKU SUPER,44638,NULL,Electric,Motorcycle,NULL,Naked,NULL,NULL,ICE,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,ICE,Current,TRUE,22
+M-NDZAJ,Horwin,EK3 DS+,EK3,NULL,EK3,44406,NULL,Electric,Motorcycle,NULL,Scooter,NULL,NULL,ICE,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,ICE,Current,FALSE,17
+M-NDZAY,Rieju,MRT3 50,MRT 50,NULL,MRT 50,43200,NULL,Petrol,Moped,NULL,Competition,NULL,NULL,ICE,50,0.1,NULL,2,2,NULL,NULL,NULL,NULL,NULL,ICE,Current,FALSE,13
+M-NDZBH,Aprilia,Tuono V4 1100,TUONO V4 1100,NULL,TUONO V4 1100,44341,NULL,Petrol,Motorcycle,NULL,Naked,NULL,NULL,ICE,1077,1.1,NULL,129,172,NULL,NULL,NULL,NULL,NULL,ICE,Current,TRUE,18
+M-NDZBS,Fantic Motor,FA06 XE 50 Performance,XE 50,NULL,XE 50,44485,NULL,Petrol,Moped,NULL,Naked,NULL,NULL,ICE,50,0.1,NULL,2,2,NULL,NULL,NULL,NULL,NULL,ICE,Current,TRUE,18
+M-NDZCG,Ducati,StreetFighter V4 SP,STREETFIGHTER V4,NULL,STREETFIGHTER V4,44638,NULL,Petrol,Motorcycle,NULL,Naked,NULL,NULL,ICE,1103,1.1,NULL,153,205,NULL,NULL,NULL,NULL,NULL,ICE,Current,TRUE,18
+M-NDZGC,Aprilia,RX 125,RX 125,NULL,RX 125,44285,NULL,Petrol,Motorcycle,NULL,Competition,NULL,NULL,ICE,124,0.1,NULL,11,14,NULL,NULL,NULL,NULL,NULL,ICE,Current,TRUE,15
+M-NDZHS,Harley-Davidson,FLHXSE CVO SGlide 1923 22,CVO STREET GLIDE 1923,NULL,CVO STREET GLIDE 1923,44708,NULL,Petrol,Motorcycle,NULL,Touring,NULL,NULL,ICE,1923,1.9,NULL,77,103,NULL,NULL,NULL,NULL,NULL,ICE,Current,TRUE,18
+M-NDZLX,Honda,CBR 650 RA-N,CBR 650 R,NULL,CBR 650 R,44609,NULL,Petrol,Motorcycle,NULL,Road Sport,NULL,NULL,ICE,649,0.6,NULL,70,93,NULL,NULL,NULL,NULL,NULL,ICE,Current,TRUE,15
+M-NDZWC,Zhongneng,ZN 50 QT-H,ZN 50 QT-H,NULL,ZN 50 QT-H,44670,NULL,Petrol,Moped,NULL,Scooter,NULL,NULL,ICE,50,0.1,NULL,2,2,NULL,NULL,NULL,NULL,NULL,ICE,Current,TRUE,15
+M-NEADQ,Harley-Davidson,Street XG 750 20,STREET XG 750,NULL,STREET XG 750,43697,NULL,Petrol,Motorcycle,NULL,Naked,NULL,NULL,ICE,749,0.7,NULL,43,57,NULL,NULL,NULL,NULL,NULL,ICE,Current,FALSE,16
+M-NEAEB,Sakura,JS2A,JS2A,NULL,JS2A,43983,NULL,Electric,Motorcycle,NULL,Scooter,NULL,NULL,ICE,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,ICE,Current,TRUE,19
+M-NEAFL,Yamasaki,YMR 50-3D,YMR 50-3D,NULL,YMR 50-3D,42138,NULL,Petrol,Moped,NULL,Road Sport,NULL,NULL,ICE,49,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,ICE,Current,FALSE,13
+M-NEAHF,Peugeot,Django 50 Heritage 2T,DJANGO 50,NULL,DJANGO 50,42446,NULL,Petrol,Moped,NULL,Scooter,NULL,NULL,ICE,49,0,NULL,3,4,NULL,NULL,NULL,NULL,NULL,ICE,Current,FALSE,16
+M-NEAJC,Royal Enfield,Interceptor INT 650 E5,INTERCEPTOR INT 650,NULL,INTERCEPTOR INT 650,44285,NULL,Petrol,Motorcycle,NULL,Modern Classic,NULL,NULL,ICE,648,0.6,NULL,35,46,NULL,NULL,NULL,NULL,NULL,ICE,Current,TRUE,18
+M-NEALD,Indian Motorcycle,Chieftain Classic Icon,CHIEFTAIN CLASSIC ICON,NULL,CHIEFTAIN CLASSIC ICON,43781,NULL,Petrol,Motorcycle,NULL,Touring,NULL,NULL,ICE,1811,1.8,NULL,62,83,NULL,NULL,NULL,NULL,NULL,ICE,Current,FALSE,16
+M-NEAPQ,Ducati,Scrambler,SCRAMBLER,NULL,SCRAMBLER,28341,NULL,Petrol,Motorcycle,NULL,Modern Classic,NULL,NULL,ICE,803,0.8,NULL,54,72,NULL,NULL,NULL,NULL,NULL,ICE,Current,TRUE,18
+M-NEAXT,Stromer,ST3,ST5,NULL,ST5,43862,NULL,Electric,Moped,NULL,EPAC,NULL,NULL,ICE,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL,NULL,NULL,ICE,Current,TRUE,22
+M-NEBAW,TRS,TRS One RR 300,TRS ONE RR 300,NULL,TRS ONE RR 300,42962,NULL,Petrol,Motorcycle,NULL,Competition,NULL,NULL,ICE,294,0.3,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,ICE,Current,FALSE,16
+M-NEBDA,Peugeot,Speedfight 4 50 Anniversary,SPEEDFIGHT 50,NULL,SPEEDFIGHT 50,42767,NULL,Petrol,Moped,NULL,Scooter,NULL,NULL,ICE,49,0,NULL,3,4,NULL,NULL,NULL,NULL,NULL,ICE,Current,FALSE,16
+M-NEBDY,Kawasaki,EX 650 MMFNN,NINJA 650,NULL,NINJA 650,44323,NULL,Petrol,Motorcycle,NULL,Road Sport,NULL,NULL,ICE,649,0.6,NULL,50,67,NULL,NULL,NULL,NULL,NULL,ICE,Current,TRUE,15
+M-NEBGB,Piaggio,Moped Unspecified Scooter,MOPED UNSPEC SCOOTER,NULL,MOPED UNSPEC SCOOTER,44613,NULL,Petrol,Moped,NULL,Scooter,NULL,NULL,ICE,50,0.1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,ICE,Current,FALSE,15
+M-NEBLC,KTM,1290 Super Duke R 21,1290 SUPERDUKE R,NULL,1290 SUPERDUKE R,44263,NULL,Petrol,Motorcycle,NULL,Naked,NULL,NULL,ICE,1301,1.3,NULL,132,177,NULL,NULL,NULL,NULL,NULL,ICE,Current,TRUE,17
+M-NEBLJ,WLIE,R8,R8,NULL,R8,43689,NULL,Petrol,Moped,NULL,Scooter,NULL,NULL,ICE,50,0.1,NULL,2,2,NULL,NULL,NULL,NULL,NULL,ICE,Current,FALSE,13
+M-NEBNC,Znen,ZN 50 QT-30A,ZN 50 QT-30A,NULL,ZN 50 QT-30A,42853,NULL,Petrol,Moped,NULL,Scooter,NULL,NULL,ICE,50,0.1,NULL,2,2,NULL,NULL,NULL,NULL,NULL,ICE,Current,FALSE,13
+M-NEBRW,Zhenhua,ZH SR 50-1,ZH SR 50-1,NULL,ZH SR 50-1,42090,NULL,Petrol,Moped,NULL,Naked,NULL,NULL,ICE,49,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,ICE,Current,FALSE,13
+M-NEBYG,Indian Motorcycle,Super Chief Limited,SUPER CHIEF LIMITED,NULL,SUPER CHIEF LIMITED,44359,NULL,Petrol,Motorcycle,NULL,Touring,NULL,NULL,ICE,1890,1.9,NULL,67,89,NULL,NULL,NULL,NULL,NULL,ICE,Current,TRUE,18
+M-NEBYW,Norton,Commando California,COMMANDO CALIFORNIA,NULL,COMMANDO CALIFORNIA,43601,NULL,Petrol,Motorcycle,NULL,Modern Classic,NULL,NULL,ICE,961,1,NULL,53,71,NULL,NULL,NULL,NULL,NULL,ICE,Current,FALSE,16
+M-NECFJ,Sunra,Miku Max,MIKU MAX,NULL,MIKU MAX,44866,NULL,Electric,Moped,NULL,Scooter,NULL,NULL,ICE,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,ICE,Current,TRUE,22
+M-NECNE,Lexmoto,Cypher,CYPHER,NULL,CYPHER,44641,NULL,Electric,Moped,NULL,Naked,NULL,NULL,ICE,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,ICE,Current,TRUE,22
+M-NEDRB,Rieju,MRT 50,MRT 50,NULL,MRT 50,43060,NULL,Petrol,Moped,NULL,Competition,NULL,NULL,ICE,50,0.1,NULL,2,2,NULL,NULL,NULL,NULL,NULL,ICE,Current,FALSE,13
+M-NEDYN,BMW,F 900 XR A2,F 900 XR,NULL,F 900 XR,44007,NULL,Petrol,Motorcycle,NULL,Adventure,NULL,NULL,ICE,895,0.9,NULL,35,46,NULL,NULL,NULL,NULL,NULL,ICE,Current,TRUE,15
+M-NEEAP,Beta,Xtrainer,XTRAINER,NULL,XTRAINER,42095,NULL,Petrol,Motorcycle,NULL,Competition,NULL,NULL,ICE,293,0.3,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,ICE,Current,TRUE,18
+M-NEESV,Ebladet Evo,Moped Unspec Electric Scooter,MOPED UNSPEC ELECTRIC SCOOTER,NULL,MOPED UNSPEC ELECTRIC SCOOTER,44245,NULL,Electric,Moped,NULL,Scooter,NULL,NULL,ICE,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,ICE,Current,FALSE,20
+M-NEFEX,Derbi,Senda Xtreme SM,SENDA XTREME SM,NULL,SENDA XTREME SM,43131,NULL,Petrol,Moped,NULL,Naked,NULL,NULL,ICE,50,0.1,NULL,2,2,NULL,NULL,NULL,NULL,NULL,ICE,Current,FALSE,16
+M-NEFJY,Quadro,Quadro 4,QUADRO 4,NULL,QUADRO 4,42152,NULL,Petrol,Tricycle,NULL,Scooter,NULL,NULL,ICE,346,0.3,NULL,21,28,NULL,NULL,NULL,NULL,NULL,ICE,Current,FALSE,16
+M-NEFQQ,Lexmoto,Milano 50 FT 50 QT-27,MILANO 50 FT 50 QT-27,NULL,MILANO 50 FT 50 QT-27,42227,NULL,Petrol,Moped,NULL,Scooter,NULL,NULL,ICE,50,0.1,NULL,3,4,NULL,NULL,NULL,NULL,NULL,ICE,Current,FALSE,16
+M-NEHFT,MGB,A9 50 E5,A9 50,NULL,A9 50,44505,NULL,Petrol,Moped,NULL,Scooter,NULL,NULL,ICE,50,0.1,NULL,2,2,NULL,NULL,NULL,NULL,NULL,ICE,Current,TRUE,15
+M-NEJSP,BRP,Can-Am Spyder F3 S,CAN-AM SPYDER F3,NULL,CAN-AM SPYDER F3,43570,NULL,Petrol,Tricycle,NULL,Other L-CAT,NULL,NULL,ICE,1330,1.3,NULL,83,111,NULL,NULL,NULL,NULL,NULL,ICE,Current,FALSE,16
+M-NEKCC,Piaggio,MP3 500 LT Business ABS,MP3 500 LT BUSINESS,NULL,MP3 500 LT BUSINESS,43276,NULL,Petrol,Tricycle,NULL,Scooter,NULL,NULL,ICE,493,0.5,NULL,33,44,NULL,NULL,NULL,NULL,NULL,ICE,Current,FALSE,16
+M-NEKTF,Piaggio,MP3 300 Sport,MP3 300 SPORT,NULL,MP3 300 SPORT,44642,NULL,Petrol,Tricycle,NULL,Scooter,NULL,NULL,ICE,278,0.3,NULL,19,25,NULL,NULL,NULL,NULL,NULL,ICE,Current,TRUE,18
+M-NELPS,Kymco,Super 8 50 E5,SUPER 8 50,NULL,SUPER 8 50,44686,NULL,Petrol,Moped,NULL,Scooter,NULL,NULL,ICE,49,0,NULL,3,4,NULL,NULL,NULL,NULL,NULL,ICE,Current,TRUE,18
+M-NELTZ,Piaggio,T/C Unspec Trail/End 126-650cc,T/C UNSPEC 126 - 650 CC,NULL,T/C UNSPEC 126 - 650 CC,44263,NULL,Diesel,Tricycle,NULL,Other L-CAT,NULL,NULL,ICE,650,0.7,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,ICE,Current,FALSE,17
+M-NENRL,Piaggio,MP3 500 HPE Sport Advanced,MP3 500 HPE SPORT ADVANCED,NULL,MP3 500 HPE SPORT ADVANCED,43606,NULL,Petrol,Tricycle,NULL,Scooter,NULL,NULL,ICE,493,0.5,NULL,33,44,NULL,NULL,NULL,NULL,NULL,ICE,Current,FALSE,16
+M-NERSA,BRP,Can-Am Spyder F3 S Special SER,CAN-AM SPYDER F3 S SPECIAL SER,NULL,CAN-AM SPYDER F3 S SPECIAL SER,44706,NULL,Petrol,Tricycle,NULL,Other L-CAT,NULL,NULL,ICE,1330,1.3,NULL,83,111,NULL,NULL,NULL,NULL,NULL,ICE,Current,TRUE,18
+M-NERSJ,AJS,F35,F35,NULL,F35,44138,NULL,Electric,Moped,NULL,Scooter,NULL,NULL,ICE,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,ICE,Current,FALSE,17
+M-NESEY,Harley-Davidson,FLHTCUTGSE TG UL CVO 1923 20,CVO TRI GLIDE 1923,NULL,CVO TRI GLIDE 1923,43696,NULL,Petrol,Tricycle,NULL,Other L-CAT,NULL,NULL,ICE,1923,1.9,NULL,80,107,NULL,NULL,NULL,NULL,NULL,ICE,Current,FALSE,13
+M-NETDZ,Peugeot,Metropolis 400 TVNX,METROPOLIS 400,NULL,METROPOLIS 400,42528,NULL,Petrol,Tricycle,NULL,Scooter,NULL,NULL,ICE,399,0.4,NULL,27,36,NULL,NULL,NULL,NULL,NULL,ICE,Current,FALSE,16
+M-NEVPZ,RAP,OAK,OAK,NULL,OAK,44469,NULL,Electric,Tricycle,NULL,Other L-CAT,NULL,NULL,ICE,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,ICE,Current,FALSE,17
+M-NEVRA,BRP,Can-Am Spyder F3 Limited,CAN-AM SPYDER F3 LIMITED,NULL,CAN-AM SPYDER F3 LIMITED,44179,NULL,Petrol,Tricycle,NULL,Other L-CAT,NULL,NULL,ICE,1330,1.3,NULL,83,111,NULL,NULL,NULL,NULL,NULL,ICE,Current,FALSE,16
+M-NEYKS,Piaggio,Ape City,APE CITY,NULL,APE CITY,42696,NULL,Petrol,Tricycle,NULL,Other L-CAT,NULL,NULL,ICE,200,0.2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,ICE,Current,FALSE,16
+M-NEYNS,Peugeot,Metropolis 400 ABS,METROPOLIS 400,NULL,METROPOLIS 400,42773,NULL,Petrol,Tricycle,NULL,Scooter,NULL,NULL,ICE,399,0.4,NULL,26,34,NULL,NULL,NULL,NULL,NULL,ICE,Current,FALSE,16
+M-NEYVN,Suzuki,GSX 1300 RRQM2 Hayabusa,GSX 1300 R HAYABUSA,NULL,GSX 1300 R HAYABUSA,44239,NULL,Petrol,Motorcycle,NULL,Road Sport,NULL,NULL,ICE,1340,1.3,NULL,140,187,NULL,NULL,NULL,NULL,NULL,ICE,Current,TRUE,18
+M-NEZHF,Rieju,MRT3 50 Pro Replica 75 SM,MRT 50,NULL,MRT 50,43221,NULL,Petrol,Moped,NULL,Naked,NULL,NULL,ICE,50,0.1,NULL,2,2,NULL,NULL,NULL,NULL,NULL,ICE,Current,FALSE,16
+M-NEZRR,Honda,MRT 260 J,MRT 260 J,NULL,MRT 260 J,43245,NULL,Petrol,Motorcycle,NULL,Competition,NULL,NULL,ICE,259,0.3,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,ICE,Current,FALSE,13
+M-NFACX,Champ,CM 48 Q-2,CM 48 Q-2,NULL,CM 48 Q-2,43728,NULL,Petrol,Moped,NULL,Naked,NULL,NULL,ICE,48,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,ICE,Current,FALSE,13
+M-NFAEX,Horwin,EK1 Standard Range,EK1,NULL,EK1,44179,NULL,Electric,Moped,NULL,Scooter,NULL,NULL,ICE,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,ICE,Current,FALSE,20
+M-NFAFJ,BRP,Can-Am Ryker 600 Ace,CAN-AM RYKER 600 ACE,NULL,CAN-AM RYKER 600 ACE,43908,NULL,Petrol,Tricycle,NULL,Other L-CAT,NULL,NULL,ICE,600,0.6,NULL,37,49,NULL,NULL,NULL,NULL,NULL,ICE,Current,FALSE,16
+M-NFAKD,Romet Motors,YG 48 Q-5,YG 48 Q-5,NULL,YG 48 Q-5,42781,NULL,Petrol,Moped,NULL,Naked,NULL,NULL,ICE,50,0.1,NULL,2,2,NULL,NULL,NULL,NULL,NULL,ICE,Current,FALSE,13
+M-NFBBW,Norton,Commando 961 Street,COMMANDO 961 STREET,NULL,COMMANDO 961 STREET,43774,NULL,Petrol,Motorcycle,NULL,Modern Classic,NULL,NULL,ICE,961,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,ICE,Current,FALSE,16
+M-NFBFA,Peugeot,Speedfight 4 50 Sportline 4T,SPEEDFIGHT 50,NULL,SPEEDFIGHT 50,44672,NULL,Petrol,Moped,NULL,Scooter,NULL,NULL,ICE,49,0,NULL,3,4,NULL,NULL,NULL,NULL,NULL,ICE,Current,TRUE,18
+M-NFBND,Vmoto,CPA,SUPER SOCO CPX,NULL,SUPER SOCO CPX,44082,NULL,Electric,Motorcycle,NULL,Scooter,NULL,NULL,ICE,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,ICE,Current,TRUE,19
+M-NFCAV,Wangye,Moped Unspecified Scooter,MOPED UNSPEC SCOOTER,NULL,MOPED UNSPEC SCOOTER,44453,NULL,Petrol,Moped,NULL,Scooter,NULL,NULL,ICE,50,0.1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,ICE,Current,FALSE,15
+M-NFCFN,Peugeot,Speedfight 4 50 LC Total Sport,SPEEDFIGHT 50,NULL,SPEEDFIGHT 50,42465,NULL,Petrol,Moped,NULL,Scooter,NULL,NULL,ICE,49,0,NULL,4,5,NULL,NULL,NULL,NULL,NULL,ICE,Current,FALSE,16
+M-NFCGF,Harley-Davidson,FLRT Freewheeler 1746 17,FREEWHEELER 1746,NULL,FREEWHEELER 1746,42593,NULL,Petrol,Tricycle,NULL,Other L-CAT,NULL,NULL,ICE,1746,1.7,NULL,65,87,NULL,NULL,NULL,NULL,NULL,ICE,Current,FALSE,16
+M-NFCRR,Sherco,HRD 50 SE-R Factory,HRD 50 SE-R FACTORY,NULL,HRD 50 SE-R FACTORY,44208,NULL,Petrol,Moped,NULL,Competition,NULL,NULL,ICE,50,0.1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,ICE,Current,TRUE,18
+M-NFCRY,Morgan,3 Wheeler,3 WHEELER,NULL,3 WHEELER,44847,NULL,Petrol,Tricycle,NULL,Other L-CAT,NULL,NULL,ICE,1497,1.5,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,ICE,Current,TRUE,18
+M-NFDBZ,Romet Motors,Ogar 900 R,OGAR 900 R,NULL,OGAR 900 R,42915,NULL,Petrol,Moped,NULL,Scooter,NULL,NULL,ICE,50,0.1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,ICE,Current,FALSE,16
+M-NFDGN,Lexmoto,Hunter 50 E4,HUNTER 50 TD 50 Q,NULL,HUNTER 50 TD 50 Q,43284,NULL,Petrol,Moped,NULL,Naked,NULL,NULL,ICE,48,0,NULL,2,2,NULL,NULL,NULL,NULL,NULL,ICE,Current,FALSE,16
+M-NFEBS,BRP,Can-Am Ryker Rally Ed 900 Ace,CAN-AM RYKER RALLY ED 900 ACE,NULL,CAN-AM RYKER RALLY ED 900 ACE,43537,NULL,Petrol,Tricycle,NULL,Other L-CAT,NULL,NULL,ICE,899,0.9,NULL,61,81,NULL,NULL,NULL,NULL,NULL,ICE,Current,FALSE,16
+M-NFEEA,Quadro,Quadro 4,QUADRO 4,NULL,QUADRO 4,42955,NULL,Petrol,Tricycle,NULL,Scooter,NULL,NULL,ICE,346,0.3,NULL,23,30,NULL,NULL,NULL,NULL,NULL,ICE,Current,FALSE,16
+M-NFEKF,Piaggio,Liberty 50 Delivery Single,LIBERTY 50 DELIVERY,NULL,LIBERTY 50 DELIVERY,43160,NULL,Petrol,Moped,NULL,Scooter,NULL,NULL,ICE,50,0.1,NULL,2,2,NULL,NULL,NULL,NULL,NULL,ICE,Current,FALSE,16
+M-NFFPG,Zhenhua,ZH A 50,ZH A 50,NULL,ZH A 50,43559,NULL,Petrol,Moped,NULL,Naked,NULL,NULL,ICE,49,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,ICE,Current,FALSE,13
+M-NFJLQ,Yamaha,MWD 300 Tricity 300,TRICITY 300,NULL,TRICITY 300,44639,NULL,Petrol,Tricycle,NULL,Scooter,NULL,NULL,ICE,292,0.3,NULL,21,28,NULL,NULL,NULL,NULL,NULL,ICE,Current,TRUE,18
+M-NFKBY,Honda,T/C Unspec Trail/En 651-1000cc,T/C UNSPEC 651 - 1000 CC,NULL,T/C UNSPEC 651 - 1000 CC,44657,NULL,Petrol,Tricycle,NULL,NULL,NULL,NULL,ICE,1000,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,ICE,Current,FALSE,17
+M-NFNRQ,Piaggio,MP3 300 LT Business,MP3 300 LT BUSINESS,NULL,MP3 300 LT BUSINESS,42787,NULL,Petrol,Tricycle,NULL,Scooter,NULL,NULL,ICE,278,0.3,NULL,16,21,NULL,NULL,NULL,NULL,NULL,ICE,Current,FALSE,16
+M-NFQTP,Harley-Davidson,FLHTCUTG Tri Glide UL 1868 22,TRI GLIDE ULTRA 1868,NULL,TRI GLIDE ULTRA 1868,44652,NULL,Petrol,Tricycle,NULL,Other L-CAT,NULL,NULL,ICE,1868,1.9,NULL,65,87,NULL,NULL,NULL,NULL,NULL,ICE,Current,TRUE,17
+M-NFTEH,Harley-Davidson,FLHTCUTG Tri Glide UL 1745 18,TRI GLIDE ULTRA 1745,NULL,TRI GLIDE ULTRA 1745,42968,NULL,Petrol,Tricycle,NULL,Other L-CAT,NULL,NULL,ICE,1745,1.7,NULL,66,88,NULL,NULL,NULL,NULL,NULL,ICE,Current,FALSE,15
+M-NFTNL,Rewaco,T/C Unspec Trail/En 651-1000cc,T/C UNSPEC 651 - 1000 CC,NULL,T/C UNSPEC 651 - 1000 CC,42615,NULL,Petrol,Tricycle,NULL,Other L-CAT,NULL,NULL,ICE,1000,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,ICE,Current,FALSE,17
+M-NFTQR,Piaggio,MP3 350 LT Sport ABS,MP3 350 LT SPORT,NULL,MP3 350 LT SPORT,43587,NULL,Petrol,Tricycle,NULL,Scooter,NULL,NULL,ICE,330,0.3,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,ICE,Current,FALSE,16
+M-NFTVE,BRP,Can-Am Spyder RT Limited,CAN-AM SPYDER RT LTD,NULL,CAN-AM SPYDER RT LTD,43908,NULL,Petrol,Tricycle,NULL,Other L-CAT,NULL,NULL,ICE,1330,1.3,NULL,85,113,NULL,NULL,NULL,NULL,NULL,ICE,Current,FALSE,16
+M-NFTXV,Piaggio,MP3 300 HPE,MP3 300 HPE,NULL,MP3 300 HPE,44061,NULL,Petrol,Tricycle,NULL,Scooter,NULL,NULL,ICE,278,0.3,NULL,19,25,NULL,NULL,NULL,NULL,NULL,ICE,Current,FALSE,13
+M-NFWJS,Kawasaki,T/C Unspecified Over 1000cc,T/C UNSPEC OVER 1000 CC,NULL,T/C UNSPEC OVER 1000 CC,44664,NULL,Petrol,Tricycle,NULL,NULL,NULL,NULL,ICE,1001,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,ICE,Current,FALSE,15
+M-NFYLR,Slingshot,A SL,A SL,NULL,A SL,42303,NULL,Petrol,Tricycle,NULL,Other L-CAT,NULL,NULL,ICE,2384,2.4,NULL,129,172,NULL,NULL,NULL,NULL,NULL,ICE,Current,FALSE,13
+M-NGDNK,BRP,Can-Am Ryker 900 Ace,CAN-AM RYKER 900 ACE,NULL,CAN-AM RYKER 900 ACE,44097,NULL,Petrol,Tricycle,NULL,Other L-CAT,NULL,NULL,ICE,899,0.9,NULL,61,81,NULL,NULL,NULL,NULL,NULL,ICE,Current,FALSE,16
+M-NGNPN,Mash,Five Hundred Family,FIVE HUNDRED FAMILY,NULL,FIVE HUNDRED FAMILY,43020,NULL,Petrol,Tricycle,NULL,Other L-CAT,NULL,NULL,ICE,397,0.4,NULL,20,26,NULL,NULL,NULL,NULL,NULL,ICE,Current,FALSE,16
+M-NGNYA,Quadro,QV4 Qooder,QOODER,NULL,QOODER,43409,NULL,Petrol,Tricycle,NULL,Scooter,NULL,NULL,ICE,399,0.4,NULL,24,32,NULL,NULL,NULL,NULL,NULL,ICE,Current,FALSE,16
+M-NGPTY,Bajaj,RE 2 Stroke,RE 2 STROKE,NULL,RE 2 STROKE,44369,NULL,Petrol,Tricycle,NULL,Other L-CAT,NULL,NULL,ICE,145,0.1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,ICE,Current,FALSE,16
+M-NHCKX,Peugeot,Metropolis 400 Ultimate Sport,METROPOLIS 400,NULL,METROPOLIS 400,43745,NULL,Petrol,Tricycle,NULL,Scooter,NULL,NULL,ICE,399,0.4,NULL,26,34,NULL,NULL,NULL,NULL,NULL,ICE,Current,FALSE,16
+M-NHCPJ,BRP,Can-Am Spyder F3,CAN-AM SPYDER F3,NULL,CAN-AM SPYDER F3,44179,NULL,Petrol,Tricycle,NULL,Other L-CAT,NULL,NULL,ICE,1330,1.3,NULL,78,104,NULL,NULL,NULL,NULL,NULL,ICE,Current,FALSE,16
+M-NHCTC,Honda,T/C Unspecified Over 1000cc,T/C UNSPEC OVER 1000 CC,NULL,T/C UNSPEC OVER 1000 CC,44657,NULL,Petrol,Tricycle,NULL,NULL,NULL,NULL,ICE,1001,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,ICE,Current,FALSE,15
+M-NHDGK,Piaggio,MP3 300 Yourban LT,MP3 300 YOURBAN LT,NULL,MP3 300 YOURBAN LT,42927,NULL,Petrol,Tricycle,NULL,Scooter,NULL,NULL,ICE,278,0.3,NULL,16,21,NULL,NULL,NULL,NULL,NULL,ICE,Current,FALSE,16
+M-NHFZC,Kawasaki,T/C Unspec Trail/End 126-650cc,T/C UNSPEC 126 - 650 CC,NULL,T/C UNSPEC 126 - 650 CC,44664,NULL,Petrol,Tricycle,NULL,NULL,NULL,NULL,ICE,650,0.7,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,ICE,Current,FALSE,17
+M-NLWJV,Mercedes-Benz,Axor,AXOR 2543 LS HRS,NULL,,19793,NULL,Diesel,HCV,NULL,NULL,2,38000,ICE,11970,12,NULL,315,422,12,Semi Automatic,6x2,Pusher,NULL,ICE,Current,FALSE,15
+M-PCNDE,Renault Trucks,Master,Master 45,NULL,59,45044,NULL,Diesel,HCV,NULL,Panel Van,NULL,4500,ICE,2299,2.3,Turbocharged,107,143,NULL,Manual,4x2,Rear,NULL,ICE,Current,TRUE,96
+M-PCQZX,Peugeot,Boxer,Boxer 335 Professional Premium+ Blue HDi,NULL,X2-50,44977,NULL,Diesel,HCV,NULL,NULL,NULL,3500,ICE,1997,2,Turbocharged,103,138,NULL,Manual,4x2,Front,NULL,ICE,Current,TRUE,133
+M-PCVHJ,Citroen,Relay,Relay 40 Heavy L4H2 Enterprise Edition Blue HDi SS,NULL,X2-50,44971,NULL,Diesel,HCV,NULL,Panel Van,NULL,4005,ICE,2179,2.2,Turbocharged,121,162,NULL,Manual,4x2,Front,NULL,ICE,Current,TRUE,132
+M-PCWAE,Peugeot,Boxer,Boxer 440 Professional Prem+ L4H2 BHDi,NULL,X2-50,45128,NULL,Diesel,HCV,NULL,Panel Van,NULL,4005,ICE,2179,2.2,Turbocharged,121,162,NULL,Manual,4x2,Front,NULL,ICE,Current,TRUE,59

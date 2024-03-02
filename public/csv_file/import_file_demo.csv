@@ -1,0 +1,100 @@
+UVC,Make,Range,Model,Mark,ModelSeries,IntroductionDate,StartDate,EndDate,FuelType,VehicleClass,BodyShape,BodyStyle,NumberOfDoors,GrossVehicleWeightKG,PowerDelivery,EngineCapacityCC,EngineCapacityLitres,Aspiration,KW,BHP,NumberOfGears,TransmissionType,DriveType,DrivingAxle,BatteryCapacity,VehicleType,Model Status,VehiclesOnTheRoad,DocumentVersion
+M-AAXFG,Vauxhall,Corsa,Corsa Limited Edition CDTi ecoFLEX,,S07,2010-03-19,2010-07-09,2011-01-31,Diesel,Car,,Hatchback,3,,ICE,1248,1.2,Turbocharged,55,73,5,Manual,4x2,Front,,ICE,Discontinued,TRUE,96
+M-AAZRP,Ford,Galaxy,Galaxy Titanium EcoBlue Auto,4,CD390,2018-07-13,2018-09-05,2021-09-01,Diesel,Car,,MPV,5,2605,ICE,1996,2,Turbocharged,140,187,8,Automatic,4x2,Front,,ICE,Discontinued,TRUE,94
+M-ABJQV,Ford,Galaxy,Galaxy Ghia TDI Auto,2,V191,2000-06-01,2000-09-18,2006-09-14,Diesel,Car,,MPV,5,2510,ICE,1896,1.9,Turbocharged,85,115,5,Automatic,4x2,Front,,ICE,Discontinued,TRUE,104
+M-AAALF,Citroen,ZX,ZX Avantage Diesel,,,1992-10-01,,,Diesel,Car,,Hatchback,3,,ICE,1905,1.9,Naturally Aspirated,67,90,5,Manual,4x2,Front,,ICE,Current,FALSE,17
+M-AACQJ,Ford,Transit,Transit 350 Trend EcoBlue,5,V363,2019-07-19,2019-07-31,,Diesel,LCV,Semi High Roof,Panel Van,,3500,ICE,1996,2,Turbocharged,125,167,6,Manual,4x2,Front,,ICE,Current,TRUE,96
+M-AADLY,LDV,Maxus,Maxus 2.8t 95 LWB,,,2006-11-01,2007-02-06,2008-11-03,Diesel,LCV,Extra High Roof,Panel Van,,2800,ICE,2499,2.5,Turbocharged,70,95,5,Manual,4x2,Front,,ICE,Discontinued,TRUE,102
+M-AAKPG,Vauxhall,Zafira,Zafira Elite CDTi 120,,A05,2007-07-01,2007-09-27,2009-06-24,Diesel,Car,,MPV,5,2195,ICE,1910,1.9,Turbocharged,89,120,6,Manual,4x2,Front,,ICE,Discontinued,TRUE,93
+M-ADLSZ,Hyundai,i40,i40 Premium CRDi Blue Drive Semi-Auto,1,VF,2015-05-04,2015-06-24,2017-05-31,Diesel,Car,,Saloon,4,2100,ICE,1685,1.7,Turbocharged,104,139,7,Semi Automatic,4x2,Front,,ICE,Discontinued,TRUE,95
+M-AEFTT,Volkswagen,Passat,Passat CL,3,,1990-08-01,1991-02-05,1994-03-29,Petrol,Car,,Estate,5,,ICE,1984,2,Naturally Aspirated,85,114,5,Manual,4x2,Front,,ICE,Discontinued,TRUE,22
+M-AEKSF,Bentley,Bentayga,Bentayga V8 D Auto,1,4V1,2017-01-02,2017-02-03,2019-02-23,Diesel,Car,,SUV Estate,5,,ICE,3956,4,Turbocharged,320,429,8,Automatic,4x4,All Permanent,,ICE,Discontinued,TRUE,91
+M-AEKZY,Kia,Sedona,Sedona GSX V6 Auto,1,KV-II,1999-09-01,1999-12-08,2002-06-28,Petrol,Car,,MPV,5,,ICE,2497,2.5,Naturally Aspirated,121,162,4,Automatic,4x2,Front,,ICE,Discontinued,TRUE,95
+M-AELGF,Renault,9,9 C,,,1982-03-01,1983-12-01,1983-12-01,Petrol,Car,,Saloon,4,,ICE,1108,1.1,Naturally Aspirated,35,48,4,Manual,4x2,Front,,ICE,Discontinued,TRUE,18
+M-AFDDN,Ford,Mondeo,Mondeo Startline TDCi,5,CD391,2016-07-01,2016-09-01,2019-05-31,Diesel,Car,,Hatchback,5,2270,ICE,1997,2,Turbocharged,132,177,6,Manual,4x2,Front,,ICE,Discontinued,TRUE,93
+M-AFGRY,LDV,200 Sherpa,Sherpa 280 DS,1,,1986-10-01,,,Diesel,LCV,,,,2800,ICE,1993,2,,,,,Manual,,,,ICE,Current,FALSE,30
+M-AFNBZ,Vauxhall,Insignia,Insignia Elite Nav CDTi ecoFLEX S/S,1,G09,2013-10-01,2013-10-23,2017-05-18,Diesel,Car,,Hatchback,5,2160,ICE,1956,2,Turbocharged,103,138,6,Manual,4x2,Front,,ICE,Discontinued,TRUE,100
+M-AFPJH,Vauxhall,Corsa,Corsa Breeze,,S07,2007-09-01,2007-10-21,2009-07-31,Petrol,Car,,Hatchback,5,1585,ICE,998,1,Naturally Aspirated,44,59,5,Manual,4x2,Front,,ICE,Discontinued,TRUE,99
+M-ACNQF,Iveco,Daily,Daily 50C18,,MY2014,2020-04-17,2020-08-04,2021-09-17,Diesel,HCV,,,,5200,ICE,2998,3,Turbocharged,132,177,6,Manual,4x2,Rear,,ICE,Discontinued,TRUE,100
+M-ACRAV,Ford,Transit,Transit 115 T280S Eco DPF,4,V347MCA,2009-07-03,2014-01-16,2014-01-16,Diesel,LCV,Low Roof,Panel Van,,2840,ICE,2198,2.2,Turbocharged,85,115,6,Manual,4x2,Front,,ICE,Discontinued,TRUE,27
+M-ACVCZ,Peugeot,Expert,Expert Asphalt L1 Blue HDi,,K0,2019-09-20,2019-09-30,2020-09-05,Diesel,LCV,Low Roof,Panel Van,,3100,ICE,1499,1.5,Turbocharged,96,128,6,Manual,4x2,Front,,ICE,Discontinued,TRUE,97
+M-ACVES,Dacia,Sandero,Sandero Ambiance,1,B52,2013-02-08,2013-11-27,2014-05-12,Petrol,Car,,Hatchback,5,1500,ICE,1149,1.1,Naturally Aspirated,55,75,5,Manual,4x2,Front,,ICE,Discontinued,TRUE,99
+M-ACWSR,Renault,Captur,Captur Signature X Nav TCe,1,J87,2017-04-13,2017-06-21,2018-09-28,Petrol,Car,,SUV Hatchback,5,1693,ICE,1197,1.2,Turbocharged,87,120,6,Manual,4x2,Front,,ICE,Discontinued,TRUE,95
+M-ACZBA,Renault,Scenic,Scenic Dynamique 16V A,2,X84,2003-09-01,2004-01-13,2006-04-12,Petrol,Car,,MPV,5,1950,ICE,1598,1.6,Naturally Aspirated,85,115,4,Automatic,4x2,Front,,ICE,Discontinued,TRUE,104
+M-ABVYA,Fiat,Ducato,Roller Team Toleno S,,290/295,2019-08-02,,,Diesel,Car,Standard Roof,Motor Caravan,,3500,ICE,2287,2.3,Turbocharged,119,160,6,Manual,4x2,Front,,ICE,Current,FALSE,25
+M-ABYPV,Citroen,Berlingo,Berlingo 850 Enterprise PureTech SS,3,K9,2019-10-04,,,Petrol,LCV,Standard Roof,Panel Van,,2280,ICE,1199,1.2,Turbocharged,81,108,6,Manual,4x2,Front,,ICE,Current,FALSE,22
+M-ABZKA,Vauxhall,Combo,Combo 2300 Sport CDTi ecoFLEX S/S,3,61VO,2016-07-01,2016-12-14,2017-10-31,Diesel,LCV,Standard Roof,Panel Van,,2234,ICE,1248,1.2,Turbocharged,70,95,5,Manual,4x2,Front,,ICE,Discontinued,TRUE,102
+M-ABZRJ,Mercedes-AMG,G-Class,AMG G 63 4Matic Auto,,W463,2015-08-21,2015-10-26,2018-09-28,Petrol,Car,,SUV Estate,5,3200,ICE,5461,5.5,Turbocharged,420,563,7,Automatic,4x4,All Permanent,,ICE,Discontinued,TRUE,94
+M-ACAZC,Mercedes-AMG,C-Class,AMG C 63 S Premium Auto,,C205,2015-10-16,2016-04-25,2018-11-28,Petrol,Car,,Coupe,2,2160,ICE,3982,4,Turbocharged,375,503,7,Automatic,4x2,Rear,,ICE,Discontinued,TRUE,95
+M-AGBPF,Vauxhall,Vectra,Vectra LS Dual Fuel CVT,,J02,2002-11-01,,,Petrol/LPG,Car,,Saloon,4,,ICE,1796,1.8,Naturally Aspirated,90,120,1,CVT,4x2,Front,,ICE,Current,FALSE,19
+M-AAFJF,BMW,3 Series,330I SE Touring,,E46,2003-03-01,2003-03-25,2005-05-17,Petrol,Car,,Estate,5,,ICE,2979,3,Naturally Aspirated,170,228,6,Manual,4x2,Rear,,ICE,Discontinued,TRUE,108
+M-AAGAZ,Mercedes-Benz,Vito,Vito 120 CDi LWB Auto,2,NCV2,2006-04-01,2006-06-01,2011-03-17,Diesel,LCV,,Panel Van,,2940,ICE,2987,3,Turbocharged,150,201,5,Automatic,4x2,Rear,,ICE,Discontinued,TRUE,102
+M-AAKNK,Volkswagen,Transporter,Transporter T30 Highline TDI BlueMotion,6,T6,2017-07-14,,,Diesel,LCV,Standard Roof,Window Van,,3000,ICE,1968,2,Turbocharged,150,201,6,Manual,4x2,Front,,ICE,Current,FALSE,22
+M-AALQL,Vauxhall,Combo,Combo 2300 L2H2 CDTi S/S Semi-Auto,3,61VO,2013-10-04,,,Diesel,LCV,Standard Roof,Panel Van,,2370,ICE,1598,1.6,Turbocharged,67,90,5,Semi Automatic,4x2,Front,,ICE,Current,FALSE,26
+M-AAYCT,Volkswagen,Polo,Polo Match 60,4,9N3,2007-12-01,2007-12-17,2010-07-01,Petrol,Car,,Hatchback,3,1550,ICE,1198,1.2,Naturally Aspirated,44,60,5,Manual,4x2,Front,,ICE,Discontinued,TRUE,99
+M-ABDLW,Volvo,XC60,XC60 SE Nav D4 AWD,1,156,2013-02-19,,,Diesel,Car,,SUV Estate,5,,ICE,2400,2.4,Turbocharged,120,161,6,Manual,4x4,All Permanent,,ICE,Current,FALSE,20
+M-ABJHE,Ford,Transit,Transit 500 Limited EcoBlue,,V363,2021-03-05,,,Diesel,HCV,,Panel Van,,5000,ICE,1996,2,Turbocharged,125,167,,Manual,4x2,Rear,,ICE,Current,FALSE,22
+M-ADQKX,Volvo,V40,V40 Inscription Edition T3 Auto,2,525,2019-01-02,2019-01-08,2019-12-20,Petrol,Car,,Hatchback,5,,ICE,1498,1.5,Turbocharged,112,150,6,Automatic,4x2,Front,,ICE,Discontinued,TRUE,88
+M-ADVGG,Other Italy,Other Italy,Roller Team Auto-Roller 685 Auto,,,2013-09-06,2014-10-01,2014-10-01,Diesel,Car,Standard Roof,Motor Caravan,,3500,ICE,2287,2.3,Turbocharged,96,130,1,Automatic,4x2,Front,,ICE,Discontinued,TRUE,113
+M-ADWPX,Renault,Megane,Megane Sport 225 F1 Team,2,X84,2006-01-01,2006-01-01,2007-06-18,Petrol,Car,,Hatchback,3,1800,ICE,1998,2,Turbocharged,167,225,6,Manual,4x2,Front,,ICE,Discontinued,TRUE,95
+M-ABTGP,Kia,Sportage,Sportage 4 CRDi ISG MHEV Semi-Auto,4,QL,2019-11-01,2019-10-28,2021-03-23,Diesel,Car,,SUV Estate,5,2145,MHEV,1598,1.6,Turbocharged,100,134,7,Semi Automatic,4x2,Front,,MHEV,Discontinued,TRUE,95
+M-ABTZT,Porsche,Panamera,Panamera E-Hybrid Executive 4 Semi-Auto,,971,2021-01-15,2021-07-29,2021-07-29,Petrol/Electric,Car,,Coupe,5,,PHEV,2894,2.9,Turbocharged,340,455,8,Semi Automatic,4x4,All Permanent,14,PHEV,Discontinued,TRUE,115
+M-AFFHX,Audi,A3,A3 S Line Final Edition TFSI Semi-Auto,,8P7,2012-11-01,2013-02-05,2013-07-26,Petrol,Car,,Convertible,2,1950,ICE,1798,1.8,Turbocharged,118,158,7,Semi Automatic,4x2,Front,,ICE,Discontinued,TRUE,90
+M-AFGGS,Ford,Mondeo,Mondeo Startline X Auto,5,CD391,2017-02-01,2017-06-22,2018-08-17,Petrol,Car,,Estate,5,2330,ICE,1999,2,Turbocharged,177,237,6,Automatic,4x2,Front,,ICE,Discontinued,TRUE,94
+M-AFRHJ,Audi,A3,A3 Sportback Sport TFSI Quattro Semi-Auto,,8VA,2013-04-19,2013-07-19,2014-09-01,Petrol,Car,,Hatchback,5,1940,ICE,1798,1.8,Turbocharged,132,177,6,Semi Automatic,4x4,All Permanent,,ICE,Discontinued,TRUE,91
+M-AFTVQ,Vauxhall,Corsa,Corsa Elegance 16v,,X01,2000-07-01,2000-10-31,2005-02-02,Petrol,Car,,Hatchback,5,1430,ICE,1199,1.2,Naturally Aspirated,55,73,5,Manual,4x2,Front,,ICE,Discontinued,TRUE,101
+M-AEJCS,BMW,3 Series,318d Edition SE Touring,,E91,2008-03-01,2008-03-20,2009-03-01,Diesel,Car,,Estate,5,2045,ICE,1995,2,Turbocharged,105,141,6,Manual,4x2,Rear,,ICE,Discontinued,TRUE,100
+M-AETEA,Vauxhall,Mokka,Mokka Tech Line CDTi ecoFLEX S/S,1,J13,2015-02-02,2015-05-15,2016-03-01,Diesel,Car,,SUV Hatchback,5,,ICE,1598,1.6,Turbocharged,100,134,6,Manual,4x2,Front,,ICE,Discontinued,TRUE,93
+M-AFYGJ,Skoda,Roomster,Roomster SE TDI CR,1,5J7,2012-12-01,2013-02-22,2016-06-24,Diesel,Car,,MPV,5,1777,ICE,1598,1.6,Turbocharged,66,90,5,Manual,4x2,Front,,ICE,Discontinued,TRUE,98
+M-AGEZN,Renault,Megane,Megane Expression VVT 115 A,2,X84,2003-09-01,2004-01-13,2006-09-30,Petrol,Car,,Estate,5,1840,ICE,1598,1.6,Naturally Aspirated,85,115,4,Automatic,4x2,Front,,ICE,Discontinued,TRUE,93
+M-AGHYX,Volkswagen,Golf,Golf SE,4,1J,2000-05-01,2000-09-11,2002-12-23,Petrol,Car,,Estate,5,,ICE,1595,1.6,Naturally Aspirated,78,105,5,Manual,4x2,Front,,ICE,Discontinued,TRUE,93
+M-AGQKJ,LDV,200,200 Series,1,,1989-05-01,,,Petrol,LCV,,,,2000,ICE,1700,1.7,,,,,Manual,,,,ICE,Current,FALSE,26
+M-AGRCY,Honda,Civic,Civic Type-S GT i-VTec Semi-Auto,8,FN,2007-01-01,,,Petrol,Car,,Hatchback,3,,ICE,1799,1.8,Naturally Aspirated,103,138,6,Semi Automatic,4x2,Front,,ICE,Current,FALSE,22
+M-ACQZZ,Renault Trucks,Master,Master 100.35 SWB,1,53,2006-12-01,2008-05-21,2009-04-28,Diesel,LCV,,Panel Van,,3500,ICE,2464,2.5,Turbocharged,74,100,6,Manual,4x2,Front,,ICE,Discontinued,TRUE,90
+M-ACZCJ,Renault,CLIO,Clio Initiale dCi,3,X85,2008-03-13,,,Diesel,Car,,Hatchback,5,,ICE,1461,1.5,Turbocharged,63,86,5,Manual,4x2,Front,,ICE,Current,FALSE,16
+M-ADAAC,Hyundai,Accent,Accent 1,2,LC,2000-01-01,1999-08-04,2003-06-04,Petrol,Car,,Hatchback,3,1427,ICE,1341,1.3,Naturally Aspirated,62,84,5,Manual,4x2,Front,,ICE,Discontinued,TRUE,105
+M-AGVFX,Nissan,370Z,370Z Nismo V6,1,Z34,2015-06-12,2015-07-29,2018-03-29,Petrol,Car,,Coupe,3,1800,ICE,3696,3.7,Naturally Aspirated,253,339,6,Manual,4x2,Rear,,ICE,Discontinued,TRUE,92
+M-AGWRE,Vauxhall,Insignia,Insignia Elite Nav,1,G09,2009-07-03,2010-01-18,2010-06-29,Petrol,Car,,Hatchback,5,2040,ICE,1796,1.8,Naturally Aspirated,103,138,6,Manual,4x2,Front,,ICE,Discontinued,TRUE,91
+M-AAYPK,Iveco,Daily,Daily 35S13 SWB,4,MY2009,2009-08-07,2010-07-16,2011-05-13,Diesel,LCV,Semi High Roof,Panel Van,,3500,ICE,2287,2.3,Turbocharged,93,126,5,Manual,4x2,Rear,,ICE,Discontinued,TRUE,98
+M-AAFJW,Volkswagen,Golf,Golf Match,4,1J,2003-01-01,2002-12-17,2004-07-29,Petrol,Car,,Hatchback,5,1640,ICE,1390,1.4,Naturally Aspirated,55,75,5,Manual,4x2,Front,,ICE,Discontinued,TRUE,105
+M-AAKTN,Mazda,Mazda6,6 S,2,GH,2010-08-09,2010-09-10,2012-09-28,Petrol,Car,,Hatchback,5,1925,ICE,1798,1.8,Naturally Aspirated,88,120,6,Manual,4x2,Front,,ICE,Discontinued,TRUE,88
+M-ADPCA,Mercedes-Benz,CLK,CLK 230 Kompressor Elegance Semi-Auto,,A208,2001-04-01,2001-04-30,2001-05-01,Petrol,Car,,Convertible,2,,ICE,2295,2.3,Supercharged,146,197,6,Semi Automatic,4x2,Rear,,ICE,Discontinued,TRUE,89
+M-ADPVR,Audi,A8,S8 V8 TFSI Quattro Auto,,4HC,2013-11-22,2014-01-27,2015-09-24,Petrol,Car,,Saloon,4,2590,ICE,3993,4,Turbocharged,383,513,8,Automatic,4x4,All Permanent,,ICE,Discontinued,TRUE,98
+M-ADRFD,Chevrolet,Orlando,Orlando LT VCDI,,J309,2011-01-21,,,Diesel,Car,,MPV,5,,ICE,1998,2,Turbocharged,120,163,6,Manual,4x2,Front,,ICE,Current,FALSE,28
+M-ADVDS,Volvo,V50,V50 ES Drive S/S,1,545,2010-11-15,2010-12-20,2012-11-05,Diesel,Car,,Estate,5,1900,ICE,1560,1.6,Turbocharged,84,113,6,Manual,4x2,Front,,ICE,Discontinued,TRUE,96
+M-ADYJA,Nissan,Qashqai,Qashqai N-Tec+ DiG-T CVT,2,J11,2015-05-01,2015-05-27,2016-07-05,Petrol,Car,,SUV Estate,5,1880,ICE,1197,1.2,Turbocharged,85,113,1,CVT,4x2,Front,,ICE,Discontinued,TRUE,101
+M-AEHCC,Ford,Mondeo,Mondeo Titanium,5,CD391,2014-10-06,2015-01-10,2018-06-22,Petrol,Car,,Estate,5,2260,ICE,1498,1.5,Turbocharged,118,158,6,Manual,4x2,Front,,ICE,Discontinued,TRUE,100
+M-AELQW,Vauxhall,Zafira Tourer,Zafira Tourer Exclusive CDTi Auto,1,P12,2014-07-11,2014-09-05,2015-08-07,Diesel,Car,,MPV,5,2445,ICE,1956,2,Turbocharged,121,162,6,Automatic,4x2,Front,,ICE,Discontinued,TRUE,102
+M-AERNQ,Ford,Focus,Focus Titanium 100 Auto,2,C307,2008-01-01,,,Petrol,Car,,Saloon,4,,ICE,1596,1.6,Naturally Aspirated,74,100,4,Automatic,4x2,Front,,ICE,Current,FALSE,19
+M-AFDJG,Jeep,Grand Cherokee,Grand Cherokee CRD Overland 4x4 Auto,4,WK2,2016-04-22,2016-05-21,2018-07-10,Diesel,Car,,SUV Estate,5,2949,ICE,2987,3,Turbocharged,184,247,8,Automatic,4x4,All Permanent,,ICE,Discontinued,TRUE,97
+M-AFNBX,Mini,Hatch,Cooper D Bayswater Auto,,R56,2012-02-01,2012-06-29,2015-11-19,Diesel,Car,,Hatchback,3,,ICE,1995,2,Turbocharged,82,110,6,Automatic,4x2,Front,,ICE,Discontinued,TRUE,104
+M-AFNWY,Land Rover,Defender,Defender Auto,,L663,2020-12-04,2021-03-04,2021-10-07,Petrol,Car,,SUV Estate,3,2226,ICE,1997,2,Turbocharged,221,295,8,Automatic,4x4,All Permanent,,ICE,Discontinued,TRUE,94
+M-AFPKA,Vauxhall,Combo,Combo 2300 CDTi,4,61VO,2016-07-01,2016-09-07,2019-01-17,Diesel,LCV,Standard Roof,Panel Van,,2385,ICE,1248,1.2,Turbocharged,70,95,5,Manual,4x2,Front,,ICE,Discontinued,TRUE,99
+M-ACNTV,Nissan,Juke,Juke Premiere Edition DiG-T Semi-Auto,2,F16,2019-10-11,2019-11-25,2020-08-10,Petrol,Car,,SUV Coupe,5,,ICE,999,1,Turbocharged,86,115,7,Semi Automatic,4x2,Front,,ICE,Discontinued,TRUE,93
+M-ACRWE,Rover,Metro,Unspecified,,,1983-09-01,,,Petrol,LCV,,Car Derived Van,,1150,ICE,1275,1.3,,,,,Manual,,,,ICE,Current,FALSE,20
+M-ACYHW,Ford,Transit Custom,Transit Custom 340 Trend EcoBlue,6,V362,2019-07-19,2019-09-30,2022-09-02,Diesel,LCV,Standard Roof,Panel Van,,3400,ICE,1996,2,Turbocharged,125,167,6,Manual,4x2,Front,,ICE,Discontinued,TRUE,96
+M-ABSRH,Mercedes-Benz,E-Class,E280 Elegance A,,W210,1995-09-01,1996-07-31,1997-10-27,Petrol,Car,,Saloon,4,,ICE,2799,2.8,Naturally Aspirated,142,190,4,Automatic,4x2,Rear,,ICE,Discontinued,TRUE,98
+M-ABTZF,Volvo,C70,C70 Sport Premium D,2,542,2009-05-01,2009-06-05,2009-09-30,Diesel,Car,,Convertible,2,,ICE,1997,2,Turbocharged,100,136,6,Manual,4x2,Front,,ICE,Discontinued,TRUE,88
+M-ABVNF,Peugeot,Partner,Partner 850 SE HDi 75,2,B9,2008-06-01,2009-01-31,2010-04-06,Diesel,LCV,Standard Roof,Panel Van,,2205,ICE,1560,1.6,Turbocharged,55,73,5,Manual,4x2,Front,,ICE,Discontinued,TRUE,91
+M-AGCYG,Nissan,NV400,NV400 SE dCi,1,X62A,2013-06-21,2013-09-01,2014-05-20,Diesel,LCV,Semi High Roof,Chassis Cab,,3500,ICE,2298,2.3,Turbocharged,111,150,6,Manual,4x2,Front,,ICE,Discontinued,TRUE,104
+M-AGKTB,Fiat,Multipla,Multipla Dynamic JTD,1,186,2005-09-01,2006-03-29,2011-12-30,Diesel,Car,,MPV,5,2050,ICE,1910,1.9,Turbocharged,89,120,5,Manual,4x2,Front,,ICE,Discontinued,TRUE,93
+M-AGSRQ,Mazda,Mazda3,3 Sport Nav,3,BM,2013-10-13,2013-10-09,2017-01-18,Petrol,Car,,Hatchback,5,1815,ICE,1998,2,Naturally Aspirated,88,118,6,Manual,4x2,Front,,ICE,Discontinued,TRUE,99
+M-AGVTT,Mercedes-Benz,C-Class,C180 Sport,,S202,2000-09-01,2000-10-13,2000-10-13,Petrol,Car,,Estate,5,1950,ICE,1998,2,Naturally Aspirated,96,129,6,Manual,4x2,Rear,,ICE,Discontinued,TRUE,91
+M-AGWBJ,Ford,Focus,Focus Style,2,C307,2007-03-01,,,Petrol,Car,,Hatchback,3,,ICE,1596,1.6,Naturally Aspirated,74,99,5,Manual,4x2,Front,,ICE,Current,FALSE,19
+M-AGZZE,Vauxhall,ADAM,Adam Jam S/S,1,M13,2015-04-10,,,Petrol,Car,,Hatchback,3,,ICE,1398,1.4,Naturally Aspirated,74,98,5,Manual,4x2,Front,,ICE,Current,FALSE,16
+M-AHCNZ,Ford,Transit,Transit 200 T350el RWD,,V348,2007-10-01,2008-03-31,2008-08-27,Diesel,LCV,High Roof,Panel Van,,3500,ICE,3199,3.2,Turbocharged,149,200,6,Manual,4x2,Rear,,ICE,Discontinued,TRUE,94
+M-AAEXQ,Abarth,595,595c Turismo Semi-Auto,1,312,2021-01-22,2021-03-31,2022-10-31,Petrol,Car,,Convertible,2,1440,ICE,1368,1.4,Turbocharged,123,162,5,Semi Automatic,4x2,Front,,ICE,Discontinued,TRUE,90
+M-AAKFD,Mercedes-Benz,GL,GL420 CDi 4Matic Auto,,X164,2006-09-01,2006-07-12,2010-02-10,Diesel,Car,,SUV Estate,5,3250,ICE,3996,4,Turbocharged,225,301,7,Automatic,4x4,All Permanent,,ICE,Discontinued,TRUE,101
+M-AEGNT,Ford,Ranger,Ranger Regular Cab 4WD,2,J97U,2006-06-01,2006-09-01,2009-11-19,Diesel,Pickup,,Pick Up,5,3010,ICE,2499,2.5,Turbocharged,105,140,5,Manual,4x4,All Selected,,ICE,Discontinued,TRUE,107
+M-AELLA,Mercedes-Benz,Sprinter,Sprinter 311 CDI,,VS30,2018-05-18,,,Diesel,LCV,Standard Roof,Chassis Cab,,3500,ICE,2143,2.1,Turbocharged,84,112,6,Manual,4x2,Rear,,ICE,Current,FALSE,29
+M-AEPXV,Volkswagen,Transporter,Transporter T32 Highline TDI BlueMotion Technology 4Motion Semi-Auto,6,T6,2016-08-12,2016-09-22,2019-08-28,Diesel,LCV,Standard Roof,Panel Van,,3200,ICE,1968,2,Turbocharged,150,201,7,Semi Automatic,4x4,All Selected,,ICE,Discontinued,TRUE,98
+M-AAYCV,Seat,Ibiza,Ibiza FR Sport TSi Semi-Auto,5,SE270,2020-09-04,2020-09-21,2021-08-07,Petrol,Car,,Hatchback,5,1615,ICE,999,1,Turbocharged,85,114,7,Semi Automatic,4x2,Front,,ICE,Discontinued,TRUE,101
+M-ABAEP,Vauxhall,Astra,Astra Elite Auto,,P10,2009-09-15,2010-03-01,2012-07-09,Petrol,Car,,Hatchback,5,1940,ICE,1598,1.6,Naturally Aspirated,85,113,6,Automatic,4x2,Front,,ICE,Discontinued,TRUE,103
+M-ABBPN,Iveco,Daily,Daily 35S17,,MY2014,2014-12-05,,,Diesel,LCV,High Roof,Window Van,,3500,ICE,3000,3,Turbocharged,125,170,6,Manual,4x2,Rear,,ICE,Current,FALSE,25
+M-ADSRA,Vauxhall,Vectra,Vectra CDX Dual Fuel Auto,,J96,1999-03-01,2000-05-01,2000-06-23,Petrol,Car,,Estate,5,,ICE,1998,2,Naturally Aspirated,100,134,4,Automatic,4x2,Front,,ICE,Discontinued,TRUE,96
+M-AEAHF,Land Rover,Range Rover Evoque,Range Rover Evoque Autobiography TD4 Auto,1,L538,2015-09-04,,,Diesel,Car,,SUV Coupe,3,,ICE,1999,2,Turbocharged,132,177,9,Automatic,4x4,All Permanent,,ICE,Current,FALSE,24
+M-AFDLJ,Rover,Streetwise,Streetwise TD,,R3,2004-06-01,,,Diesel,Car,,Hatchback,5,,ICE,1994,2,Turbocharged,74,99,5,Manual,4x2,Front,,ICE,Current,FALSE,20
+M-AFJNZ,Skoda,Octavia,Octavia Laurin + Klement,,,2000-09-01,2001-02-13,2005-07-04,Petrol,Car,,Estate,5,,ICE,1781,1.8,Turbocharged,111,150,5,Manual,4x2,Front,,ICE,Discontinued,TRUE,95
+M-AFPSJ,Renault,CLIO,Clio Privilege 16v,2,X65,2001-05-01,2001-05-02,2003-09-29,Petrol,Car,,Hatchback,3,,ICE,1390,1.4,Naturally Aspirated,70,94,5,Manual,4x2,Front,,ICE,Discontinued,TRUE,98
+M-ABTWG,Land Rover,Range Rover,Range Rover EFI,,,1986-11-01,1986-02-18,1993-05-14,Petrol,Car,,SUV Estate,5,,ICE,3528,3.5,Naturally Aspirated,123,165,5,Manual,4x4,All Permanent,,ICE,Discontinued,TRUE,23
+M-ABVVP,MAN,TGE,TGE 3.180 4x4,1,1,2018-11-02,2018-10-26,2021-10-04,Diesel,LCV,Standard Roof,Panel Van,,3500,ICE,1968,2,Turbocharged,130,174,6,Manual,4x4,All Permanent,,ICE,Discontinued,TRUE,102
